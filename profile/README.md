@@ -14,13 +14,16 @@ Recent intelligence and credible eyewitness accounts suggest the continuation of
 
 ### Immediate Threats
 
-1. **Mount Calvary Baptist Church** (Lexington, KY) 
+ ![IMG_0117](https://github.com/Mission23/Mission23/assets/140252803/5b61181a-de0c-4cf3-be46-9bb34b398e55) 
+1. **Mount Calvary Baptist Church** (4742 Todds Road, Lexington, KY)
+     - Shown above.
+     - Mount Calvary Missionary Baptist Church is a name used by the perpetrators since April 2023.
      - Basement 
 
-2. **Mount Zion Baptist Church** (Versailles, KY) 
+3. **Mount Zion Baptist Church** (Versailles, KY) 
      - Basement
 
-3. **Hickory Valley Christian Church** (Chattanooga, TN) 
+4. **Hickory Valley Christian Church** (Chattanooga, TN) 
      - Gymnasium at Hamilton Heights Christian Academy (on the same property)
 
 Law enforcement should remain vigilant and increase patrols around these churches to prevent any additional loss of life by unsuspecting mourners who have been lured in by false funeral arrangements.  Recent cover up activity and changes in the perpetrators modus operandi and locus in quo may give the appearance of nothing out of the ordinary, visual inspections of any noted (above) areas should be performed.
