@@ -14,17 +14,17 @@ Recent intelligence and credible eyewitness accounts suggest the continuation of
 
 ### Immediate Threats
 
-**Mount Calvary Baptist Church** (Lexington, KY) 
+1. **Mount Calvary Baptist Church** (Lexington, KY) 
      - Basement 
 
-**Mount Zion Baptist Church** (Versailles, KY) 
-     - Basement 
-**Hickory Valley Christian Church** (Chattanooga, TN) 
+2. **Mount Zion Baptist Church** (Versailles, KY) 
+     - Basement
+
+3. **Hickory Valley Christian Church** (Chattanooga, TN) 
      - Gymnasium at Hamilton Heights Christian Academy (on the same property)
 
-Law enforcement should remain vigilant and increase patrols around these churches to prevent any additional loss of life by unsuspecting mourners who have been lured in by false funeral arrangements.
+Law enforcement should remain vigilant and increase patrols around these churches to prevent any additional loss of life by unsuspecting mourners who have been lured in by false funeral arrangements.  Recent cover up activity and changes in the perpetrators modus operandi and locus in quo may give the appearance of nothing out of the ordinary, visual inspections of any noted (above) areas should be performed.
 
-Recent cover up activity and changes in the perpetrators modus operandi and locus in quo may give the appearance of nothing out of the ordinary, visual inspections of any noted (above) areas should be performed.
 ---
 
 ### Recent Activity: Phantom Funeral of Rev. Duke Stone
