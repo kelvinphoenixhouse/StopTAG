@@ -1,116 +1,74 @@
-**Law Enforcement Bulletin: Advisory on IMMINENT PLANNED Phantom Funeral Activity (A MASS-KILLING)**
+See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
+***
+### Law Enforcement Advisory: TAG-POW Attacks
 
-**Date:** 2024-06-20
-
-**Subject:** Advisory on Phantom Funerals Linked to TAG Operations
-
----
-
-### Overview
-
-Recent intelligence and credible eyewitness accounts suggest the continuation of covert operations known as Phantom Funerals. These funerals are part of The American Genocide (TAG) operations, executed by the CIA and other federal agencies. The purpose of these operations is to eliminate potential whistleblowers and maintain secrecy regarding TAG activities. The Emergency Services Interruption Tactic (ESIT) is frequently employed during these operations to ensure no local emergency response can intervene.
+**Content Warning**: The following advisory contains detailed descriptions of violent incidents and covert operations. It is intended for law enforcement purposes.
 
 ---
 
-### Immediate Threats
+**Important Notice**
 
- ![IMG_0117](https://github.com/Mission23/Mission23/assets/140252803/5b61181a-de0c-4cf3-be46-9bb34b398e55) 
-1. **Mount Calvary Baptist Church** (4742 Todds Road, Lexington, KY)
-     - Shown above.
-     - Mount Calvary Missionary Baptist Church is a name used by the perpetrators since April 2023.
-     - Basement 
-
-3. **Mount Zion Baptist Church** (Versailles, KY) 
-     - Basement
-
-4. **Hickory Valley Christian Church** (Chattanooga, TN) 
-     - Gymnasium at Hamilton Heights Christian Academy (on the same property)
-
-Law enforcement should remain vigilant and increase patrols around these churches to prevent any additional loss of life by unsuspecting mourners who have been lured in by false funeral arrangements.  Recent cover up activity and changes in the perpetrators modus operandi and locus in quo may give the appearance of nothing out of the ordinary, visual inspections of any noted (above) areas should be performed.
+This advisory contains critical information regarding the TAG-POW (The American Genocide - Place of Worship) attacks, which involve a hidden genocide. We are facing ongoing interference from the CIA and federal government entities in disseminating this information effectively. We urge all law enforcement agencies receiving this advisory to ensure it reaches other agencies, particularly at the state level, to prevent interception or blockage of our information.
 
 ---
 
-### Recent Activity: Phantom Funeral of Rev. Duke Stone
+**Overview**
 
-**Date of Funeral:** June 7, 2024
+The TAG-POW attacks are a series of highly organized assaults targeting various places of worship, characterized by meticulous planning and execution reminiscent of tactics described in Annie Jacobsen's book "Surprise, Kill, Vanish."
 
-**Location:** Hickory Valley Christian Church, Chattanooga, Tennessee (Gymnasium)
+**Operational Details**
 
-#### Background:
-- **Named Decedent:** Rev. Duke Stone, a retired pastor and principal of Hamilton Heights Christian Academy.
-- **Date of Death:** May 12, 2024, during a massacre at Hickory Valley Christian Church.
-- **Reported Cause of Death:** Reported as a car accident by CIA operatives.
-- **Number of Victims:** 649 individuals killed during the Phantom Funeral.
+After each attack, all victims are reported missing. The perpetrators conduct phantom funerals, where any mourners are eliminated, and victims are kept "alive" through a phantom identity scheme. Vehicles associated with victims are swiftly removed, making it appear as though nothing has happened despite significant casualties. In these attacks, 911 services are disabled, and armed personnel block sanctuary exits, preventing escape.
 
----
+**List of Churches**
 
-### Emergency Services Interruption Tactic (ESIT)
+1. **Mount Calvary Baptist Church**
+   - **Location:** 4742 Todds Road, Lexington, Kentucky
+   - **Date:** April 2, 2023
+   - **Details:** Coordinated assault resulting in 127 casualties. Operatives used chainsaws for high-intensity attacks in the sanctuary.
 
-#### Overview
+2. **Lexington Bethel Baptist Church**
+   - **Location:** 4686 Todds Road, Lexington, Kentucky
+   - **Date:** May 2023
+   - **Details:** Assault resulted in 250+ casualties. Operatives utilized handguns in a coordinated attack.
 
-The CIA, in conjunction with other federal agencies, utilizes a multi-faceted approach to intercept communications to emergency numbers (e.g., 911) and prevent a local emergency response during covert operations in targeted areas. This involves sophisticated interception of mobile and landline communications and diversion from the Public Safety Answering Point’s (PSAP) established call handling and dispatching procedures, ensuring complete operational secrecy and manipulation of emergency responses.
+3. **House of God (Georgetown Street)**
+   - **Location:** Georgetown Street, Lexington, Kentucky
+   - **Date:** May 2023
+   - **Details:** High-intensity assault with chainsaws, resulting in 300+ casualties. Body disposal involved dissolution.
 
-#### Components
+4. **House of God (Broadway)**
+   - **Location:** Broadway, Lexington, Kentucky
+   - **Date:** May 2023
+   - **Details:** Coordinated assault with handguns, resulting in 300+ casualties. Selective body disposal method employed.
 
-1. **Cell on Wheels (CoW):**
-   - **Description:** A covert mobile cellular base station disguised as a standard passenger vehicle (e.g., Ford Explorer) with no visible antenna array.
-   - **Function:** Redirects all mobile phone connections within a 0.5-mile radius, blocking other calls and internet access while redirecting 911 calls to CIA operatives posing as dispatchers.
+5. **Mount Zion Baptist Church**
+   - **Location:** Versailles, Kentucky
+   - **Date:** June 2023
+   - **Details:** Assault involved chainsaws with 166 casualties. Initial attack in the sanctuary, followed by basement assault.
 
-2. **Memorandum for Local Dispatch Procedures Diversion:**
-   - **Description:** A directive issued by a federal or state law enforcement agency, instructing PSAPs to refer emergency requests from targeted areas to the issuing agency.
+6. **Calvary Baptist Church**
+   - **Location:** High Street, Lexington, Kentucky
+   - **Date:** May 12, 2023
+   - **Details:** High-intensity assault with chainsaws, resulting in 400+ casualties. Body disposal method included dissolution.
 
-3. **Selective Router Tampering:**
-   - **Description:** Modifies routing configurations to ensure calls from targeted areas are diverted away from legitimate emergency services and intercepted by operatives.
+7. **Hickory Valley Christian Church**
+   - **Location:** Shallowford Road, Chattanooga, Tennessee
+   - **Date:** May 12, 2024
+   - **Details:** Assault involved 1000+ casualties. Operatives used chainsaws in a gymnasium assault.
 
----
+**Recommendations**
 
-### Observations and Warnings
+Law enforcement agencies are advised to:
 
-Law enforcement agencies are advised to be vigilant of the following:
+- Enhance surveillance and security measures around places of worship.
+- Conduct thorough checks of all facilities and church properties listed, including basements and school gymnasiums if present, regardless of previous attacks or recent news coverage.
+- Collaborate with federal agencies for intelligence sharing and coordinated response.
+- Educate communities on recognizing suspicious activities and reporting them promptly.
+- Make routine calls to 911 from a mobile device, verify it's the local PSAP, and request a radio check from dispatch.
+- Be vigilant and on the lookout for car haulers, charter buses, or buses carrying inmates, which may be used for transporting operatives or equipment related to attacks.
+- Urgently inform the public about TechPower attacks and warn them about potential phantom funeral activities as part of community outreach and safety awareness efforts.
 
-1. **Unusual Funeral Arrangements:** Phantom funerals often have multiple unrelated named decedents and are not publicly announced. Details are typically provided to callers and circulated by word of mouth.
-2. **Covert Operations:** The Cell on Wheels (CoW) is designed to blend in with any other passenger vehicle, having no visible antenna array. It may appear to be an undercover law enforcement vehicle.
-3. **Communication Interruption:** The CoW has a range of up to 0.5 miles, blocking all other calls and internet access. Calls to 911 are redirected to CIA operatives. **Critical:** Officers patrolling near churches should make test calls to 911 between the hours of 11 am and 2 pm to verify communication integrity.
-4. **Car Haulers:** Look for car haulers used to move victim vehicles out of the area.
-5. **Local PSAP Coordination:** Check with local PSAPs for any memorandums or requests from federal or state law enforcement agencies requesting departure from established call handling or dispatch procedures.
-6. **Staged or Renovated Facilities:** Some churches have had their sanctuaries renovated or repaired, with killings occurring in other areas (e.g., basements and gymnasiums) to obscure activities.
+For more information and updates, visit the [StopTAG GitHub repository](https://github.com/StopTAG).
 
----
-
-### Incident Locations
-
-Below is a list of churches where TAG-POW attacks have occurred:
-
-- **Hickory Valley Christian Church, Chattanooga, Tennessee**
-- **Lexington Bethel Baptist Church, Lexington, Kentucky**
-- **Mount Calvary Baptist Church, Lexington, Kentucky**
-- **Mount Zion Baptist Church, Versailles, Kentucky**
-
----
-
-### Action Items
-
-1. **Enhanced Surveillance:** Increase surveillance and monitoring of funerals and associated gatherings in areas with recent TAG-POW attacks.
-2. **Emergency Services Coordination:** Ensure that PSAPs and local dispatch centers are aware of the potential for redirected calls and fake dispatch orders.
-3. **Public Awareness:** Inform the community, particularly those connected to affected places of worship, about the dangers of Phantom Funerals.
-4. **Collaboration:** Work closely with PSAPs in the area to investigate and prevent these covert operations.
-5. **Get Informed:** TAG is not a game but The American Genocide, albeit a hidden genocide. Resources for law enforcement are available in the  [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki).
-
----
-
-### Contact Information
-
-For further information or to report suspicious activities related to Phantom Funerals, contact:
-
-- **Kelvin Eugene Williams**
-- 470-713-0020
-
----
-
-**Disclaimer:** This bulletin is based on available intelligence and eyewitness accounts. Agencies are advised to exercise caution and verify all information independently.
-
----
-
-**End of Bulletin**
-
-More information on TAG can be found on the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
+This advisory aims to mitigate further incidents and safeguard communities against the ongoing threats posed by TAG-POW attacks.
