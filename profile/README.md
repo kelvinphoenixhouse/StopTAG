@@ -1,5 +1,8 @@
+# The American Genocide 
+## Learn about TAG
 See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
 ***
+## TAG Advisories 
 ### Law Enforcement Advisory: TAG-POW Attacks
 
 **Content Warning**: The following advisory contains detailed descriptions of violent incidents and covert operations. It is intended for law enforcement purposes.
