@@ -94,7 +94,7 @@ Note: Mount Calvary Missionary Baptist Church, Inc. is a masquerade church setup
 1. **Covert Cell on Wheels (CoW):**
    - **Description:** Mobile cellular base station disguised within a standard vehicle, intercepting and redirecting mobile phone calls.
    - **Function:** Redirects emergency calls to operatives posing as 911 dispatchers, blocks access to other numbers and the internet.
-   - **Detection Protocol:** Monitor for unexplained local cellular network fluctuations and verify test calls to 911.
+   - **Detection Protocol:** Make a test call from a personal mobile phone to 911. Verify speaking with an employee at a local PSAP and request a "radio check" from dispatch. Using a department-issued phone is not recommended, as perpetrators may allow known law enforcement agency (LEA) phones to route normally to avoid detection.
 
 2. **Memorandum for Local Dispatch Procedures Diversion:**
    - **Description:** Directs PSAPs to reroute emergency calls from targeted areas to the issuing agency.
