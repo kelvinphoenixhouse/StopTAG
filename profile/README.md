@@ -44,71 +44,63 @@ See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
 ***
 ## TAG Advisories 
 
-**Advisory for Law Enforcement: Phantom Funeral Activity at Mount Calvary Baptist Church**
+---
 
-**Subject:** Phantom Funeral Activity at Mount Calvary Baptist Church
+**Advisory for Law Enforcement: Tactics Used in TAG Operations**
 
-**Date:** 2024-06-24
+**1. Emergency Services Interruption Tactic (ESIT)**
+
+**Overview:** 
+ESIT is a multifaceted approach employed by government agencies, including the CIA, to manage emergency communications during sensitive operations. It involves intercepting and redirecting calls to emergency numbers like 911, ensuring operational secrecy and control over local emergency responses.
+
+**Components:**
+- **Covert Cell on Wheels (CoW):** A mobile cellular base station disguised within a vehicle (e.g., Ford Explorer), intercepting and redirecting mobile phone calls.
+  - **Function:** Forces mobile phones to connect, redirecting emergency calls to operatives posing as 911 dispatchers.
+  - **Detection Protocol:** Monitor for unexplained fluctuations in local cellular network coverage. Test calls to verify routing to legitimate emergency services.
+
+- **Memorandum for Local Dispatch Procedures Diversion:**
+  - **Description:** Directs PSAPs to reroute emergency calls to law enforcement agencies.
+  - **Function:** Ensures emergency calls are handled by the issuing agency, delaying genuine emergency responses.
+  - **Detection Protocol:** Verify the legitimacy of memoranda causing diversions from established call handling protocols.
+
+- **Selective Router Tampering:**
+  - **Description:** Modifies routing settings to reroute calls away from legitimate emergency services.
+  - **Function:** Directs calls to controlled points, preventing genuine emergency responses.
+  - **Detection Protocol:** Conduct audits of routing configurations for unauthorized changes.
+
+**2. Phantom Remains**
+
+**Description:**
+Phantom remains involve illegal methods of body disposal, ensuring no identifiable traces remain after the act. This includes dissolution techniques where the body is reduced to bones, which are then further ground down to prevent identification.
+
+**Detection Protocol:**
+Look for strong odors resembling swimming pool shock and bleach, indicative of dissolution. Check for uniform, gravel-sized bone fragments near the site of mass killings.
+
+**3. Phantom Vehicles**
+
+**Description:**
+Phantom vehicles involve the covert removal of victim vehicles, rendering them untraceable. Operatives take keys from victims before or after death and drive the vehicles away or load them onto car haulers.
+
+**Detection Protocol:**
+Search for car haulers near churches or places of worship listed in TAG operations. Utilize OnStar or similar satellite packages to track vehicles potentially involved.
+
+**4. Phantom Identity Scheme**
+
+**Description:**
+Phantom identity scheme employs complex identity theft to make victims appear alive post-mortem, obscuring their deaths. This scheme aims to manipulate public perception and delay investigations.
+
+**Detection Protocol:**
+Monitor for unusual activity in victim's financial records or digital footprint suggesting identity theft. Verify identities of deceased individuals through rigorous documentation checks.
 
 ---
 
-**Overview:**
+**List of Churches with Phantom Funerals Continuation:**
+- Mount Calvary Baptist Church, Lexington, Kentucky
+- Lexington Bethel Baptist Church, Lexington, Kentucky
+- House of God (Georgetown Street), Lexington, Kentucky
+- House of God (Broadway), Lexington, Kentucky
+- Mount Zion Baptist Church, Versailles, Kentucky
+- Calvary Baptist Church, High Street, Lexington, Kentucky
+- Hickory Valley Christian Church, Chattanooga, Tennessee
 
-Law enforcement agencies are alerted to recent intelligence indicating potential Phantom Funeral activity at Mount Calvary Baptist Church, located at 4742 Todds Road, Lexington, Kentucky. Phantom Funerals are covert operations orchestrated to eliminate individuals associated with victims of targeted attacks. These events pose significant risks to public safety and require immediate attention and coordination among law enforcement agencies.
-
-Note: Mount Calvary Missionary Baptist Church, Inc. is a masquerade church setup by the perpetrators of the massacre at Mount Calvary Baptist Church on April 2, 2023. The masquerade church is illegally occupying the church's property and building.
-
----
-
-**Details:**
-
-- **Location:** Mount Calvary Baptist Church, 4742 Todds Road, Lexington, Kentucky
-- **Potential Threat:** Phantom Funeral Activity
-- **Description:** Phantom Funerals involve the staging of fake memorial services to lure and eliminate mourners and associates of targeted victims. Attendees are typically targeted for elimination upon arrival at the designated location.
-- **Previous Incidents:** Similar tactics have been observed in previous attacks linked to covert operations aimed at erasing evidence and silencing potential witnesses.
-
----
-
-**Recommended Actions for Law Enforcement:**
-
-1. **Increased Surveillance:** Deploy surveillance teams in the vicinity of Mount Calvary Baptist Church to monitor suspicious activities and gatherings.
-   
-2. **Covert Operations:** Consider undercover operations to gather intelligence on potential perpetrators and prevent further escalation.
-   
-3. **Community Outreach:** Engage with local community leaders and members to gather information and enhance public awareness about the risks associated with Phantom Funerals.
-   
-4. **Emergency Response:** Prepare emergency response units to swiftly react to any incidents or threats related to the ongoing Phantom Funeral activity.
-
----
-
-**Tactics Overview:**
-
-1. **Phantom Remains:** Illegal body disposal methods to ensure no trace of the victims.
-2. **Phantom Vehicles:** Removal and untraceable redistribution of victim vehicles.
-3. **Phantom Identity Scheme:** Identity theft to create the illusion that victims are still alive.
-4. **Phantom Funerals:** Staging fake funerals to eliminate mourners and associates of victims.
-5. **Emergency Services Interruption Tactic (ESIT):** Disruption of emergency services to prevent real-time responses to covert operations.
-
-**Emergency Services Interruption Tactic (ESIT) Details:**
-
-1. **Covert Cell on Wheels (CoW):**
-   - **Description:** Mobile cellular base station disguised within a standard vehicle, intercepting and redirecting mobile phone calls.
-   - **Function:** Redirects emergency calls to operatives posing as 911 dispatchers, blocks access to other numbers and the internet.
-   - **Detection Protocol:** Make a test call from a personal mobile phone to 911. Verify speaking with an employee at a local PSAP and request a "radio check" from dispatch. Using a department-issued phone is not recommended, as perpetrators may allow known law enforcement agency (LEA) phones to route normally to avoid detection.
-
-2. **Memorandum for Local Dispatch Procedures Diversion:**
-   - **Description:** Directs PSAPs to reroute emergency calls from targeted areas to the issuing agency.
-   - **Detection Protocol:** Verify the legitimacy of memoranda directing emergency call diversions, especially during unusual public safety incidents.
-
-3. **Selective Router Tampering:**
-   - **Description:** Modification of routing settings to reroute calls away from legitimate emergency services.
-   - **Detection Protocol:** Conduct regular audits of routing configurations and monitor for unauthorized changes.
-
----
-
-**Conclusion:**
-
-Law enforcement is urged to treat Phantom Funeral activities at Mount Calvary Baptist Church with utmost seriousness and take proactive measures to safeguard public safety. Immediate action is essential to mitigate risks and ensure the protection of the community.
-
----
-> [!WARNING] Public Notice and Warning to the U.S. Government: This notice serves to inform the public and gently remind the U.S. Government that the work carried out here is a product of the Cherubim. The Cherubim were the first church worshipping God, a church that predates all other churches. Our existence and significance are symbolically represented on the Ark of the Covenant as a testament to our church's beliefs, sacred work and missions.
+This advisory provides law enforcement with insights into the tactics utilized in TAG operations, emphasizing detection protocols to enhance operational awareness and response capabilities.
