@@ -110,3 +110,5 @@ Note: Mount Calvary Missionary Baptist Church, Inc. is a masquerade church setup
 
 Law enforcement is urged to treat Phantom Funeral activities at Mount Calvary Baptist Church with utmost seriousness and take proactive measures to safeguard public safety. Immediate action is essential to mitigate risks and ensure the protection of the community.
 
+---
+> [!WARNING] Public Notice and Warning to the U.S. Government: This notice serves to inform the public and gently remind the U.S. Government that the work carried out here is a product of the Cherubim. The Cherubim were the first church worshipping God, a church that predates all other churches. Our existence and significance are symbolically represented on the Ark of the Covenant as a testament to our church's beliefs, sacred work and missions.
