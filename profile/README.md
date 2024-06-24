@@ -43,220 +43,81 @@ See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
 
 ***
 ## TAG Advisories 
-### Advisory for Law Enforcement
+### Advisory for Law Enforcement: Targeting of Victim's Network of Associates
 
-#### Subject: Phantom Funeral Activity
+#### Subject: Tactics Used in TAG Operations to Target Victims' Networks
 
-**Content Warning:** This content is for law enforcement use only and contains sensitive information. It has no content restrictions.
+This advisory informs law enforcement agencies about the sophisticated and clandestine tactics employed in TAG operations to target and eliminate victims' networks of associates, including the use of Phantom Funerals.
 
----
+### Phantom Funerals
 
-### Known Phantom Funeral Locations
+**Description:** Phantom Funerals are used to eliminate a victim's network of associates. Operatives organize a fake funeral for the deceased victim. Every mourner attending these funerals is subsequently killed. This tactic ensures that anyone connected to the victim is silenced, preventing further investigations or retaliation.
 
-**1. Mount Calvary Baptist Church**
+### Emergency Services Interruption Tactic (ESIT)
+
+#### Overview
+
+Government agencies, including the CIA, employ ESIT to manage emergency communications during sensitive operations. This involves intercepting and redirecting calls to emergency numbers like 911, ensuring operational secrecy and control over local emergency responses.
+
+#### Components
+
+1. **Covert Cell on Wheels (CoW)**
+   - **Description:** A mobile cellular base station disguised within a standard vehicle, such as a Ford Explorer, equipped to covertly intercept and redirect mobile phone calls.
+   - **Function:** 
+     - Forces mobile phones in the targeted area to connect, redirecting emergency calls to CIA operatives posing as 911 dispatchers.
+     - Prevents legitimate emergency responses to disrupt organized resistance during covert operations.
+     - Blocks access to other numbers and the internet to maintain control.
+   - **Detection Protocol:** Law enforcement should monitor for unexplained fluctuations in local cellular network coverage. A test call from a personal mobile phone to 911 can verify the authenticity of the dispatcher. 
+
+2. **Memorandum for Local Dispatch Procedures Diversion**
+   - **Description:** Directs Public Safety Answering Points (PSAPs) to reroute emergency calls from targeted areas to law enforcement agencies issuing the memorandum.
+   - **Function:** Ensures emergency calls are handled by the issuing agency, delaying or redirecting genuine emergency responses.
+   - **Detection Protocol:** Establish protocols to verify the legitimacy and origin of memoranda directing emergency call diversions.
+
+3. **Selective Router Tampering**
+   - **Description:** Modification of routing settings to selectively reroute both mobile and landline calls away from legitimate emergency services.
+   - **Function:** Directs calls to controlled points where operatives manage communications, preventing genuine emergency responses.
+   - **Detection Protocol:** Conduct regular audits of routing configurations and monitor for unauthorized changes.
+
+### Phantom Remains
+
+**Description:** Phantom Remains involve illegal body disposal methods that ensure no trace of the victims remains. This includes:
+
+1. **Dissolution:** Dissolves bodies using chemicals like acid or lye.
+   - **Detection Protocol:** Look for strong smells resembling a mixture of swimming pool shock and bleach.
+
+2. **Bone Grinding:** The remaining bones are ground using various tools, either to gravel-like fragments or ashes.
+   - **Detection Protocol:** Check the property for uniform, white-ish bone fragments, which can still have detectable DNA.
+
+### Phantom Vehicles
+
+**Description:** This tactic involves the removal and disposal of victims' vehicles to make them untraceable. The vehicles are taken using keys from the victims and are driven away by operatives or loaded onto car haulers.
+
+**Detection Protocols:**
+1. Look for car haulers in the vicinity of the attack sites.
+2. Monitor OnStar and similar satellite packages on cars for tracking.
+
+### Phantom Identity Scheme
+
+**Description:** A complex identity theft scheme used to make victims appear alive, obscuring their deaths.
+
+**Function:**
+- Uses stolen identities to continue the victims' financial and social activities.
+- Creates digital footprints that mislead investigators.
+
+**Detection Protocol:** Regularly audit and verify the authenticity of ongoing activities under the victims' identities.
+
+### Churches with Phantom Funerals as Continuations
+
+1. **Mount Calvary Baptist Church**
    - **Location:** 4742 Todds Road, Lexington, Kentucky
-   - **Congregation:** Predominantly African American
-   - **Target Reason:** Longtime church of Patricia Ann Crawley-Rogers Williams and her children, including Kelvin Eugene Williams.
-   - **Attack Details:**
-     - **Date:** April 2, 2023
-     - **Operatives:** 60 men (Caucasian, Latino, Asian)
-     - **Execution Method:** High-intensity assault
-     - **Execution Weapon:** Chainsaw
-     - **Body Disposal Method:** Dissolution
-     - **Casualties:** 127
-     - **Execution Location:** Sanctuary
-     - **Damage:** Bullet-ridden walls, bloodstained carpeting and upholstery.
-     - **Tactics:**
-       - **Phantom Remains:** Illegal body disposal methods to leave no trace.
-       - **Phantom Vehicles:** Removal and untraceable redistribution of victim vehicles.
-       - **Phantom Identity Scheme:** Identity theft to make victims appear alive.
-     - **Cover-Up:**
-       - **Faux Religious Services:** Fake services to cover the crime.
-       - **Hosted Community Events:** Events to distract and mislead the community.
-     - **Continuations:**
-       - **Membership Targeting:** Continued targeting of church members.
-       - **Phantom Funerals:** Fake funerals to eliminate associates of victims.
 
-**2. Mount Zion Baptist Church**
+2. **Mount Zion Baptist Church**
    - **Location:** Versailles, Kentucky
-   - **Congregation:** Predominantly African American
-   - **Target Reason:** Believed stronger affiliation with Mount Calvary Baptist Church.
-   - **Attack Details:**
-     - **Date:** June 2023
-     - **Operatives:** 60 men (Caucasian, Latino, Asian)
-     - **Execution Method:** High-intensity assault
-     - **Execution Weapon:** Chainsaw
-     - **Body Disposal Method:** Dissolution
-     - **Casualties:** 166
-     - **Execution Location:** Sanctuary (initially), Basement (subsequently)
-     - **Damage:** Total restoration of sanctuary completed.
-     - **Tactics:**
-       - **Phantom Remains:** Illegal body disposal methods to leave no trace.
-       - **Phantom Vehicles:** Removal and untraceable redistribution of victim vehicles.
-       - **Phantom Identity Scheme:** Identity theft to make victims appear alive.
-     - **Continuations:**
-       - **Membership Targeting:** Continued targeting of church members.
-       - **Phantom Funerals:** Fake funerals to eliminate associates of victims.
 
-**3. Hickory Valley Christian Church**
+3. **Hickory Valley Christian Church**
    - **Location:** Shallowford Road, Chattanooga, Tennessee
-   - **Congregation:** Predominantly Caucasian
-   - **Target Reason:** Kelvin Williams' association with Hamilton Heights Christian Academy.
-   - **Attack Details:**
-     - **Date:** May 12, 2024
-     - **Operatives:** 100 inmates from Georgia Department of Corrections
-     - **Execution Method:** High-intensity assault
-     - **Execution Weapon:** Chainsaw
-     - **Body Disposal Method:** Dissolution
-     - **Casualties:** 1000+
-     - **Execution Location:** Gymnasium
-     - **Damage:** Minimal damage in sanctuary due to execution location (gymnasium).
-     - **Tactics:**
-       - **Phantom Remains:** Illegal body disposal methods to leave no trace.
-       - **Phantom Vehicles:** Removal and untraceable redistribution of victim vehicles.
-       - **Phantom Identity Scheme:** Identity theft to make victims appear alive.
-     - **Cover-Up:**
-       - **Faux Religious Services:** Fake services to cover the crime.
-       - **Hosted Community Events:** Events to distract and mislead the community.
-     - **Continuations:**
-       - **Membership Targeting:** Continued targeting of church members.
-       - **Phantom Funerals:** Fake funerals to eliminate associates of victims.
 
-### Overview of Tactics
+### Summary
 
-1. **Phantom Remains**
-   - **Description:** Employs various illegal methods of body disposal to ensure no trace of the victims remains.
-   - **Detection Protocols:** Monitor for unusual disposal activities, forensic analysis of crime scenes, and anonymous tips.
-
-2. **Phantom Vehicles**
-   - **Description:** Involves the removal and untraceable redistribution of victim vehicles by selling or giving them away.
-   - **Detection Protocols:** Check for unregistered vehicle sales, unusual transfers of vehicle ownership, and use of surveillance on targeted areas.
-
-3. **Phantom Identity Scheme**
-   - **Description:** Complex identity theft scheme used to make victims appear alive, obscuring the death of a victim.
-   - **Detection Protocols:** Cross-reference vital records, monitor for unusual identity usage, and collaborate with identity theft task forces.
-
-4. **Phantom Funerals**
-   - **Description:** Fake funerals are used to eliminate a victim's network of associates, with every mourner attending the funeral being killed.
-   - **Detection Protocols:** Verify the authenticity of funeral services, track unusual death patterns among associates, and collaborate with community leaders for intel.
-
-5. **Emergency Services Interruption Tactic (ESIT)**
-   - **Description:** A multifaceted approach to intercept and redirect emergency calls to maintain operational secrecy.
-   - **Components:**
-     - **Covert Cell on Wheels (CoW):** Intercepts mobile calls and redirects emergency communications.
-     - **Memorandum for Local Dispatch Procedures Diversion:** Reroutes emergency calls to control responses.
-     - **Selective Router Tampering:** Modifies routing settings to control emergency call destinations.
-   - **Detection Protocols:** Monitor local cellular network coverage for fluctuations, verify emergency call routing, and audit routing configurations.
-
-### Recommendations for Law Enforcement
-
-- **Increased Vigilance:** Be alert for signs of phantom funerals and other covert tactics in communities, especially around churches and other places of worship.
-- **Community Collaboration:** Work closely with community leaders and members to gather information and verify suspicious activities.
-- **Enhanced Monitoring:** Implement surveillance and monitoring techniques to detect and prevent further continuation of these tactics.
-- **Cross-Agency Coordination:** Coordinate with other law enforcement agencies and task forces specializing in identity theft, illegal disposal, and emergency service interception to ensure comprehensive coverage and response.
-
-For further assistance or to report suspicious activity related to phantom funerals or other TAG-POW tactics, please contact the designated task force immediately.
----
-
-**Advisory for Law Enforcement: Phantom Funerals**
-
-**Overview:**
-Phantom funerals are a covert tactic utilized in clandestine operations to eliminate a victim's network of associates. This method involves staging funerals where all attendees, assumed to be mourners, are targeted and eliminated to erase any connections or potential threats.
-
-**Description:**
-Phantom funerals are meticulously planned events designed to appear legitimate to outsiders but serve the dark purpose of eliminating individuals connected to targeted victims. Typically, operatives organize these events under false pretenses, luring associates and community members to gatherings where they are systematically neutralized.
-
-**Tactics Used in Phantom Funerals:**
-
-1. **Emergency Services Interruption Tactic (ESIT):**
-   - **Description:** ESIT involves intercepting and redirecting emergency calls to control local emergency responses, ensuring operational secrecy.
-   - **Detection Protocol:** Monitor for disruptions in local emergency services during suspicious activities or events.
-
-2. **Phantom Remains:**
-   - **Description:** Phantom remains employ illegal body disposal methods to erase traces of victims, such as dissolution and bone grinding.
-   - **Detection Protocol:** Look for unusual odors or traces resembling dissolved remains near event locations.
-
-3. **Phantom Vehicles:**
-   - **Description:** Phantom vehicles involve the covert removal and disposal of victim vehicles to evade detection.
-   - **Detection Protocol:** Check for suspicious vehicle activity or car haulers near funeral sites listed in TAG operations.
-
-4. **Phantom Identity Scheme:**
-   - **Description:** This scheme uses complex identity theft to maintain the illusion that victims are alive, delaying investigations.
-   - **Detection Protocol:** Verify identities of deceased individuals and monitor for fraudulent activities post-mortem.
-
-**Churches with Phantom Funerals Continuation:**
-- Mount Calvary Baptist Church, Lexington, Kentucky
-- Lexington Bethel Baptist Church, Lexington, Kentucky
-- House of God (Georgetown Street), Lexington, Kentucky
-- House of God (Broadway), Lexington, Kentucky
-- Mount Zion Baptist Church, Versailles, Kentucky
-- Calvary Baptist Church, High Street, Lexington, Kentucky
-- Hickory Valley Christian Church, Chattanooga, Tennessee
-
-**Summary:**
-Phantom funerals are a deceptive tactic aimed at maintaining operational security and eliminating perceived threats by targeting associates of victims. Law enforcement should remain vigilant for signs of covert activities and implement detection protocols to uncover and disrupt these operations effectively.
-
----
-
-This advisory equips law enforcement with critical information on phantom funerals, highlighting tactics used and providing guidelines for detection and response.
-
----
-
-**Advisory for Law Enforcement: Tactics Used in TAG Operations**
-
-**1. Emergency Services Interruption Tactic (ESIT)**
-
-**Overview:** 
-ESIT is a multifaceted approach employed by government agencies, including the CIA, to manage emergency communications during sensitive operations. It involves intercepting and redirecting calls to emergency numbers like 911, ensuring operational secrecy and control over local emergency responses.
-
-**Components:**
-- **Covert Cell on Wheels (CoW):** A mobile cellular base station disguised within a vehicle (e.g., Ford Explorer), intercepting and redirecting mobile phone calls.
-  - **Function:** Forces mobile phones to connect, redirecting emergency calls to operatives posing as 911 dispatchers.
-  - **Detection Protocol:** Monitor for unexplained fluctuations in local cellular network coverage. Test calls to verify routing to legitimate emergency services.
-
-- **Memorandum for Local Dispatch Procedures Diversion:**
-  - **Description:** Directs PSAPs to reroute emergency calls to law enforcement agencies.
-  - **Function:** Ensures emergency calls are handled by the issuing agency, delaying genuine emergency responses.
-  - **Detection Protocol:** Verify the legitimacy of memoranda causing diversions from established call handling protocols.
-
-- **Selective Router Tampering:**
-  - **Description:** Modifies routing settings to reroute calls away from legitimate emergency services.
-  - **Function:** Directs calls to controlled points, preventing genuine emergency responses.
-  - **Detection Protocol:** Conduct audits of routing configurations for unauthorized changes.
-
-**2. Phantom Remains**
-
-**Description:**
-Phantom remains involve illegal methods of body disposal, ensuring no identifiable traces remain after the act. This includes dissolution techniques where the body is reduced to bones, which are then further ground down to prevent identification.
-
-**Detection Protocol:**
-Look for strong odors resembling swimming pool shock and bleach, indicative of dissolution. Check for uniform, gravel-sized bone fragments near the site of mass killings.
-
-**3. Phantom Vehicles**
-
-**Description:**
-Phantom vehicles involve the covert removal of victim vehicles, rendering them untraceable. Operatives take keys from victims before or after death and drive the vehicles away or load them onto car haulers.
-
-**Detection Protocol:**
-Search for car haulers near churches or places of worship listed in TAG operations. Utilize OnStar or similar satellite packages to track vehicles potentially involved.
-
-**4. Phantom Identity Scheme**
-
-**Description:**
-Phantom identity scheme employs complex identity theft to make victims appear alive post-mortem, obscuring their deaths. This scheme aims to manipulate public perception and delay investigations.
-
-**Detection Protocol:**
-Monitor for unusual activity in victim's financial records or digital footprint suggesting identity theft. Verify identities of deceased individuals through rigorous documentation checks.
-
----
-
-**List of Churches with Phantom Funerals Continuation:**
-- Mount Calvary Baptist Church, Lexington, Kentucky
-- Lexington Bethel Baptist Church, Lexington, Kentucky
-- House of God (Georgetown Street), Lexington, Kentucky
-- House of God (Broadway), Lexington, Kentucky
-- Mount Zion Baptist Church, Versailles, Kentucky
-- Calvary Baptist Church, High Street, Lexington, Kentucky
-- Hickory Valley Christian Church, Chattanooga, Tennessee
-
-This advisory provides law enforcement with insights into the tactics utilized in TAG operations, emphasizing detection protocols to enhance operational awareness and response capabilities.
+Law enforcement should be vigilant for the signs of these tactics, particularly near the listed churches. Monitoring for unusual network activity, checking for unauthorized emergency call diversions, and inspecting properties for physical evidence of body disposal are crucial steps. Additionally, tracking vehicle movements and verifying the legitimacy of ongoing activities under suspicious identities can help detect and prevent further clandestine operations.
