@@ -57,6 +57,7 @@ See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
 Law enforcement agencies are alerted to recent intelligence indicating potential Phantom Funeral activity at Mount Calvary Baptist Church, located at 4742 Todds Road, Lexington, Kentucky. Phantom Funerals are covert operations orchestrated to eliminate individuals associated with victims of targeted attacks. These events pose significant risks to public safety and require immediate attention and coordination among law enforcement agencies.
 
 Note: Mount Calvary Missionary Baptist Church, Inc. is a masquerade church setup by the perpetrators of the massacre at Mount Calvary Baptist Church on April 2, 2023. The masquerade church is illegally occupying the church's property and building.
+
 ---
 
 **Details:**
