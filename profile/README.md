@@ -59,7 +59,7 @@ We welcome contributions from individuals and organizations committed to stoppin
 
 ## Resources
 
-- **Detailed Reports**: Comprehensive documents detailing the origins, motivations, and tactics of TAG.
+- **[Detailed Reports](https://github.com/nameless-and-blameless/TAG/wiki)**: Comprehensive documents detailing the origins, motivations, tactics, and acts of TAG.
 - **Emergency Protocols**: Guidelines and protocols for detecting and responding to TAG-POW attacks.
 - **Community Support**: Resources for victims and communities affected by TAG.
 
@@ -67,7 +67,7 @@ We welcome contributions from individuals and organizations committed to stoppin
 
 For more information or to report relevant information, please contact us at:
 
-- **Secure Messaging**: Wire app for secure communication, nothing else. See our guide for contact info and some tips.
+- **Secure Messaging**: [Wire](https://github.com/nameless-and-blameless/TAG/wiki/Contact)
 - **Social Media**: GitHub organizations - [StopTAG](https://github.com/StopTAG) (You are here!)
 
 Join us in our fight against The American Genocide and help us bring justice to the victims of these heinous attacks. Together, we can make a difference.
