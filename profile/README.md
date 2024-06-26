@@ -67,7 +67,7 @@ We welcome contributions from individuals and organizations committed to stoppin
 
 For more information or to report relevant information, please contact us at:
 
-- **Secure Messaging**: [Wire](https://github.com/nameless-and-blameless/TAG/wiki/Contact)
+- **Secure Messaging**: [Wire](https://github.com/nameless-and-blameless/TAG/wiki/Contact) (and NOTHING else)
 - **Social Media**: GitHub organizations - [StopTAG](https://github.com/StopTAG) (You are here!)
 
 Join us in our fight against The American Genocide and help us bring justice to the victims of these heinous attacks. Together, we can make a difference.
