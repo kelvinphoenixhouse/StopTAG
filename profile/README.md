@@ -1,123 +1,73 @@
-# The American Genocide 
-## Learn about TAG
-See the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki)
-***
-## TAG in Places of Worship (TAGPOW)
-> [!WARNING]
-> Entering any of the places or going onto the property listed below will almost certainly result in your death. Do not visit these locations under any circumstances.
+# StopTAG: Combatting The American Genocide (TAG)
 
-1. **Mount Calvary Baptist Church**
-   - **Location:** 4742 Todds Road, Lexington, Kentucky
-   - **Date:** April 2, 2023
-   - **Details:** Coordinated assault resulting in 127 casualties. Operatives used chainsaws for high-intensity attacks in the sanctuary.
+## Overview
 
-2. **Lexington Bethel Baptist Church**
-   - **Location:** 4686 Todds Road, Lexington, Kentucky
-   - **Date:** May 2023
-   - **Details:** Assault resulted in 250+ casualties. Operatives utilized handguns in a coordinated attack.
+Welcome to the StopTAG GitHub repository, dedicated to raising awareness and combating The American Genocide (TAG). TAG represents a series of covert operations and attacks targeting places of worship across the United States, driven by pharmaceutical and political interests opposing the revolutionary product known as Spark. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
 
-3. **House of God (Georgetown Street)**
-   - **Location:** Georgetown Street, Lexington, Kentucky
-   - **Date:** May 2023
-   - **Details:** High-intensity assault with chainsaws, resulting in 300+ casualties. Body disposal involved dissolution.
+## Table of Contents
 
-4. **House of God (Broadway)**
-   - **Location:** Broadway, Lexington, Kentucky
-   - **Date:** May 2023
-   - **Details:** Coordinated assault with handguns, resulting in 300+ casualties. Selective body disposal method employed.
+- [Introduction](#introduction)
+- [Our Mission](#our-mission)
+- [Key Issues](#key-issues)
+- [How to Contribute](#how-to-contribute)
+- [Resources](#resources)
+- [Contact Us](#contact-us)
 
-5. **Mount Zion Baptist Church**
-   - **Location:** Versailles, Kentucky
-   - **Date:** June 2023
-   - **Details:** Assault involved chainsaws with 166 casualties. Initial attack in the sanctuary, followed by basement assault.
+## Introduction
 
-6. **Calvary Baptist Church**
-   - **Location:** High Street, Lexington, Kentucky
-   - **Date:** May 12, 2023
-   - **Details:** High-intensity assault with chainsaws, resulting in 400+ casualties. Body disposal method included dissolution.
+The StopTAG organization was founded in response to a series of horrific attacks on places of worship, known collectively as The American Genocide (TAG). These attacks are part of a larger effort to suppress the dissemination of Spark, a product directly from the Creator, which aims to restore human immune function and eliminate chronic diseases. Our goal is to shed light on these covert operations, prevent further violence, and support the affected communities.
 
-7. **Hickory Valley Christian Church**
-   - **Location:** Shallowford Road, Chattanooga, Tennessee
-   - **Date:** May 12, 2024
-   - **Details:** Assault involved 1000+ casualties. Operatives used chainsaws in a gymnasium assault.
+## Our Mission
 
-***
-## TAG Advisories 
-### Advisory for Law Enforcement: Targeting of Victim's Network of Associates
+- **Raise Awareness**: Educate the public about TAG and its devastating impact on communities across the United States.
+- **Support Victims**: Provide resources and support to victims and their families.
+- **Seek Justice**: Advocate for thorough investigations and accountability for those responsible for these attacks.
+- **Promote Transparency**: Encourage transparency in government and corporate actions to prevent further abuses.
+- **Prevent Further Violence**: Do everything humanly possible to prevent, deter, or thwart any more contributions to the TAG death toll.
 
-#### Subject: Tactics Used in TAG Operations to Target Victims' Networks
+## Key Issues
 
-This advisory informs law enforcement agencies about the sophisticated and clandestine tactics employed in TAG operations to target and eliminate victims' networks of associates, including the use of Phantom Funerals.
+1. **TAG Origins and Motivations**:
+   - TAG is driven by pharmaceutical companies, particularly Gilead Sciences, to protect their financial interests from the threat posed by Spark.
+   - Political figures, including former President Donald J. Trump, exploit the chaos for their agendas, aiming to shift the United States towards an authoritarian regime.
 
-### Phantom Funerals
+2. **Tactics Utilized in TAG-POW Attacks**:
+   - High-intensity assaults and execution-style killings in places of worship.
+   - Illegal body disposal methods to eliminate evidence.
+   - Complex identity theft operations to obscure victims' deaths.
+   - Fake religious services and community events to cover up attacks.
+   - Systematic targeting of congregation members to eliminate witnesses.
 
-**Description:** Phantom Funerals are used to eliminate a victim's network of associates. Operatives organize a fake funeral for the deceased victim. Every mourner attending these funerals is subsequently killed. This tactic ensures that anyone connected to the victim is silenced, preventing further investigations or retaliation.
+3. **Emergency Services Interruption Tactic (ESIT)**:
+   - Interception and redirection of emergency calls through covert mobile base stations (Covert Cells on Wheels).
+   - Memoranda for local dispatch procedures diversion to reroute emergency responses.
+   - Selective router tampering to control emergency communication channels.
 
-### Emergency Services Interruption Tactic (ESIT)
+4. **Notable TAG-POW Incidents**:
+   - Attacks on Mount Calvary Baptist Church, Lexington Bethel Baptist Church, House of God (Georgetown Street and Broadway), Mount Zion Baptist Church, Calvary Baptist Church, and Hickory Valley Christian Church.
 
-#### Overview
+## How to Contribute
 
-Government agencies, including the CIA, employ ESIT to manage emergency communications during sensitive operations. This involves intercepting and redirecting calls to emergency numbers like 911, ensuring operational secrecy and control over local emergency responses.
+We welcome contributions from individuals and organizations committed to stopping TAG. Here’s how you can help:
 
-#### Components
+- **Report Information**: Share any information or evidence related to TAG and related attacks. 
+  - **Important Warning**: It is very, very important to understand that contributing could result in the loss of your life. Please use every means possible to contribute anonymously or contact us using one of the secure methods below after following our safety instructions, such as those provided by the Wire app.
 
-1. **Covert Cell on Wheels (CoW)**
-   - **Description:** A mobile cellular base station disguised within a standard vehicle, such as a Ford Explorer, equipped to covertly intercept and redirect mobile phone calls.
-   - **Function:** 
-     - Forces mobile phones in the targeted area to connect, redirecting emergency calls to CIA operatives posing as 911 dispatchers.
-     - Prevents legitimate emergency responses to disrupt organized resistance during covert operations.
-     - Blocks access to other numbers and the internet to maintain control.
-   - **Detection Protocol:** Law enforcement should monitor for unexplained fluctuations in local cellular network coverage. **Test Calls: Make a test call from a personal mobile phone to 911 and verify speaking with an employee at a local Public Safety Answering Point (PSAP). Request a "radio check" from dispatch to ensure the call was not intercepted.** Use of department-issued phones is discouraged as the perpetrators may have normal call routing configured for those telephone numbers to avoid detection.
+- **Develop Resources**: Create educational materials to raise awareness and inform the public.
+- **Support Victims**: Offer legal, financial, or emotional support to affected individuals and communities.
+- **Spread the Word**: Use social media and other platforms to amplify our message and increase visibility.
 
-2. **Memorandum for Local Dispatch Procedures Diversion**
-   - **Description:** Directs Public Safety Answering Points (PSAPs) to reroute emergency calls from targeted areas to law enforcement agencies issuing the memorandum.
-   - **Function:** Ensures emergency calls are handled by the issuing agency, delaying or redirecting genuine emergency responses.
-   - **Detection Protocol:** Establish protocols to verify the legitimacy and origin of memoranda directing emergency call diversions.
+## Resources
 
-3. **Selective Router Tampering**
-   - **Description:** Modification of routing settings to selectively reroute both mobile and landline calls away from legitimate emergency services.
-   - **Function:** Directs calls to controlled points where operatives manage communications, preventing genuine emergency responses.
-   - **Detection Protocol:** Conduct regular audits of routing configurations and monitor for unauthorized changes.
+- **Detailed Reports**: Comprehensive documents detailing the origins, motivations, and tactics of TAG.
+- **Emergency Protocols**: Guidelines and protocols for detecting and responding to TAG-POW attacks.
+- **Community Support**: Resources for victims and communities affected by TAG.
 
-### Phantom Remains
+## Contact Us
 
-**Description:** Phantom Remains involve illegal body disposal methods that ensure no trace of the victims remains. This includes:
+For more information or to report relevant information, please contact us at:
 
-1. **Dissolution:** Dissolves bodies using chemicals like acid or lye.
-   - **Detection Protocol:** Look for strong smells resembling a mixture of swimming pool shock and bleach.
+- **Secure Messaging**: Wire app for secure communication, nothing else. See our guide for contact info and some tips.
+- **Social Media**: GitHub organizations - [StopTAG](https://github.com/StopTAG) (You are here!)
 
-2. **Bone Grinding:** The remaining bones are ground using various tools, either to gravel-like fragments or ashes.
-   - **Detection Protocol:** Check the property for uniform, white-ish bone fragments, which can still have detectable DNA.
-
-### Phantom Vehicles
-
-**Description:** This tactic involves the removal and disposal of victims' vehicles to make them untraceable. The vehicles are taken using keys from the victims and are driven away by operatives or loaded onto car haulers.
-
-**Detection Protocols:**
-1. Look for car haulers in the vicinity of the attack sites.
-2. Monitor OnStar and similar satellite packages on cars for tracking.
-
-### Phantom Identity Scheme
-
-**Description:** A complex identity theft scheme used to make victims appear alive, obscuring their deaths.
-
-**Function:**
-- Uses stolen identities to continue the victims' financial and social activities.
-- Creates digital footprints that mislead investigators.
-
-**Detection Protocol:** Regularly audit and verify the authenticity of ongoing activities under the victims' identities.
-
-### Churches with Phantom Funerals as Continuations
-
-1. **Mount Calvary Baptist Church**
-   - **Location:** 4742 Todds Road, Lexington, Kentucky
-
-2. **Mount Zion Baptist Church**
-   - **Location:** Versailles, Kentucky
-
-3. **Hickory Valley Christian Church**
-   - **Location:** Shallowford Road, Chattanooga, Tennessee
-
-### Summary
-
-Law enforcement should be vigilant for the signs of these tactics, particularly near the listed churches. Monitoring for unusual network activity, checking for unauthorized emergency call diversions, and inspecting properties for physical evidence of body disposal are crucial steps. Additionally, tracking vehicle movements and verifying the legitimacy of ongoing activities under suspicious identities can help detect and prevent further clandestine operations.
+Join us in our fight against The American Genocide and help us bring justice to the victims of these heinous attacks. Together, we can make a difference.
