@@ -4,6 +4,16 @@
 
 Welcome to the StopTAG organization, dedicated to raising awareness and combating The American Genocide (TAG). TAG is a genocide. Its origins and earliest acts were driven by pharmaceutical interests attempting to prevent Spark, a revolutionary product, from reaching the public. However, since the massacre of Mount Calvary Baptist Church, TAG has been propelled by political interests. This shift is due to the nature of the attack—an illegal surprise assault on a seated congregation with the sole objective of leaving no one alive. Furthermore, killing believers in any higher power is a necessary step in establishing an authoritarian regime. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
 
+## What You Need To Know
+* [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
+* [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
+* [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
+* [How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
+* [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
+* [How attending a funeral resulted in over 600 deaths, at a funeral, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
+* [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
+* The Apocalypse has begun.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -71,3 +81,9 @@ For more information or to report relevant information, please contact us at:
 - **Social Media**: GitHub organizations - [StopTAG](https://github.com/StopTAG) (You are here!)
 
 Join us in our fight against The American Genocide and help us bring justice to the victims of these heinous attacks. Together, we can make a difference.
+
+> [!IMPORTANT]
+> This notice serves to inform the public and remind the U.S. Government that this work is a product of the Cherubim, the first church worshipping God, predating all others. Our existence is symbolically represented on the Ark of the Covenant, signifying our beliefs and sacred missions. Our purpose has always been to protect life and guard His glory. Since the Magna Carta, which predates the Constitution, our endeavors have been safeguarded by the principle of separation of church and state.
+
+> [!WARNING]
+> Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
