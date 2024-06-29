@@ -1,4 +1,6 @@
-# Your Government Is Killing You!
+> [!WARNING]
+> Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
+
 # StopTAG: Combatting The American Genocide (TAG)
 
 ## Overview
