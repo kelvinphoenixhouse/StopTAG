@@ -76,7 +76,7 @@ We welcome contributions from individuals and organizations committed to stoppin
 ## Resources
 
 - **[Detailed Reports](https://github.com/nameless-and-blameless/TAG/wiki)**: Comprehensive documents detailing the origins, motivations, tactics, and acts of TAG.
-     - [Drafts](https://github.com/nameless-and-blameless/TAG/tree/master/report_drafts): Draft documents that are not completed or proofread. We recommend asking your higher power or inner-self for guidance.
+     - [Drafts](https://github.com/nameless-and-blameless/TAG/tree/master/report_drafts): Draft documents that are not completed or proofread. We recommend asking your higher power for guidance.
 - **[Emergency Protocols](https://github.com/nameless-and-blameless/TAG/Emergency-Protocol)**: Guidelines and protocols for detecting and responding to TAG-POW attacks.
 - **Community Support**: Resources for victims and communities affected by TAG.
 
