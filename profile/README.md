@@ -1,7 +1,11 @@
 # StopTAG: Combatting The American Genocide (TAG)
 
 > [!IMPORTANT]
-> We are urging everyone to contact news outlets in Chattanooga and request their cooperation with the police to thoroughly investigate Hickory Valley Christian Church's property, particularly the gymnasium of their private school. The gymnasium, located on the same property, is of utmost importance. There is evidence that the perpetrators are using the gym for executions and have initiated a new wave of killings targeting students and their families from affiliated schools in the area. // TV and radio news departments need to understand that recent Trump interviews were staged to discredit our reporting. I am currently surrounded by his Secret Service, FBI, and CIA, making it nearly impossible to communicate through trustworthy channels. Lives are at stake. Urge the media to pressure law enforcement to conduct a comprehensive walkthrough of the entire property, including every building and room. // News teams, remember the First Amendment and broadcast this information quickly.
+> We are urging everyone to contact news outlets in Chattanooga and request their cooperation with the police to thoroughly investigate Hickory Valley Christian Church's property, particularly the gymnasium of their private school. The gymnasium, located on the same property, is of utmost importance. There is evidence that the perpetrators are using the gym for executions and have initiated a new wave of killings targeting students and their families from affiliated schools in the area.
+> 
+> TV and radio news departments need to understand that recent Trump interviews were staged to discredit our reporting. I am currently surrounded by his Secret Service, FBI, and CIA, making it nearly impossible to communicate through trustworthy channels. Lives are at stake. Urge the media to pressure law enforcement to conduct a comprehensive walkthrough of the entire property, including every building and room.
+> 
+> News teams, remember the First Amendment and broadcast this information quickly OVER THE AIR.
 
 ## Overview
 
