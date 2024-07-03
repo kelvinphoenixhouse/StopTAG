@@ -79,6 +79,7 @@ We welcome contributions from individuals and organizations committed to stoppin
      - [Drafts](https://github.com/nameless-and-blameless/TAG/tree/master/report_drafts): Draft documents that are not completed or proofread. We recommend asking your higher power for guidance.
 - **[Emergency Protocols](https://github.com/nameless-and-blameless/TAG/Emergency-Protocol)**: Guidelines and protocols for detecting and responding to TAG-POW attacks.
 - **Community Support**: Resources for victims and communities affected by TAG.
+- **[Advisories](https://github.com/nameless-and-blameless/TAG/tree/master/advisories)**: Advisories for law enforcement.
 
 ## Contact Us
 
