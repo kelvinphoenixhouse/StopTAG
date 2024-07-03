@@ -1,11 +1,11 @@
-> [!WARNING]
-> Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
-
 # StopTAG: Combatting The American Genocide (TAG)
+
+> [!IMPORTANT]
+> We are asking anyone and everyone to contact news outlets in Chattanooga and urge them to work with the police to tour all of Hickory Valley Christian Church's property, especially the gymnasium of their private school.  ESPECIALLY THE GYMNASIUM OF THEIR PRIVATE SCHOOL LOCATED ON THE SAME PROPERTY!!! The perpetrators are utilizing the gym for executions and there's evidence they've started a new wave of killing--this time students and their families from affiliated schools in the area. TV and Radio news departments must know the Trump interviews were staged to discredit our reporting, I'm surrounded by his SS, FBI and CIA with practically no trustworthy communication. Save lives, urge them to pressure law enforcement to walkthrough the entire property amd every building and room! Then news folks: Remember thr first amendment, get it on the AIR quickly.
 
 ## Overview
 
-Welcome to the StopTAG organization, dedicated to raising awareness and combating The American Genocide (TAG). TAG is a genocide. Its origins and earliest acts were driven by pharmaceutical interests attempting to prevent Spark, a revolutionary product, from reaching the public. However, since the massacre of Mount Calvary Baptist Church, TAG has been propelled by political interests. This shift is due to the nature of the attack—an illegal surprise assault on a seated congregation with the sole objective of leaving no one alive. Furthermore, killing believers in any higher power is a necessary step in establishing an authoritarian regime. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
+Welcome to the StopTAG organization, dedicated to raising awareness and combating The American Genocide (TAG). TAG is a hidden genocide. Its origins and earliest acts were driven by pharmaceutical interests attempting to prevent Spark, a revolutionary product, from reaching the public. However, since the massacre of Mount Calvary Baptist Church, TAG has been propelled by political interests. This shift is due to the nature of the attack—an illegal surprise assault on a seated congregation with the sole objective of leaving no one alive. Furthermore, killing believers in any higher power is a necessary step in establishing an authoritarian regime. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
 
 ## What You Need To Know
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
@@ -18,7 +18,9 @@ Welcome to the StopTAG organization, dedicated to raising awareness and combatin
 * [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
 * [How attending a funeral resulted in over 600 deaths, at a funeral, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
-* The Apocalypse has begun.
+
+> [!WARNING]
+> Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
 
 ## Table of Contents
 
