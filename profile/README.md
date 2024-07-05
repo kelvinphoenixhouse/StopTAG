@@ -13,7 +13,7 @@ Welcome to the StopTAG organization, dedicated to raising awareness and combatin
 * [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
-* [How attending a funeral resulted in over 600 deaths, at a funeral, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
+* [How attending a funeral resulted in the deaths of over 600 mourners, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
 
 > [!WARNING]
