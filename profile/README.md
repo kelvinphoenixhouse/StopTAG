@@ -8,6 +8,7 @@ Welcome to the StopTAG organization, dedicated to raising awareness and combatin
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
+     - [Unpacking: Shady Love](https://github.com/nameless-and-blameless/TAG/wiki/Shady-Love)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
 * [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
