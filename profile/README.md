@@ -4,7 +4,8 @@
 
 Welcome to the StopTAG organization, dedicated to raising awareness and combating [The American Genocide (TAG)](https://github.com/nameless-and-blameless/TAG/wiki/TAG). TAG is a hidden genocide. Its origins and earliest acts were driven by pharmaceutical interests attempting to prevent Spark, a revolutionary product, from reaching the public. However, since the massacre of [Mount Calvary Baptist Church](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church), TAG has been propelled by political interests. This shift is due to the nature of the attack—-an illegal surprise assault on a seated congregation with the sole objective of leaving no one alive. Furthermore, killing believers in any higher power is a necessary step in establishing an authoritarian regime. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
 
-## What You Need To Know
+## Learn
+You can see the following reports and more in the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki/):
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
