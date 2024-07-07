@@ -63,17 +63,6 @@ The StopTAG organization was founded in response to a series of horrific attacks
 4. **Notable TAG-POW Incidents**:
    - Attacks on Mount Calvary Baptist Church, Lexington Bethel Baptist Church, House of God (Georgetown Street and Broadway), Mount Zion Baptist Church, Calvary Baptist Church, and Hickory Valley Christian Church.
 
-## How to Contribute
-
-We welcome contributions from individuals and organizations committed to stopping TAG. Here’s how you can help:
-
-- **Report Information**: Share any information or evidence related to TAG and related attacks. 
-  - **Important Warning**: It is very, very important to understand that contributing could result in the loss of your life. Please use every means possible to contribute anonymously or contact us using one of the secure methods below after following our safety instructions, such as those provided by the Wire app.
-
-- **Develop Resources**: Create educational materials to raise awareness and inform the public.
-- **Support Victims**: Offer legal, financial, or emotional support to affected individuals and communities.
-- **Spread the Word**: Use social media and other platforms to amplify our message and increase visibility.
-
 ## Resources
 
 - **[Detailed Reports](https://github.com/nameless-and-blameless/TAG/wiki)**: Comprehensive documents detailing the origins, motivations, tactics, and acts of TAG.
