@@ -1,7 +1,7 @@
 # StopTAG: Combatting The American Genocide (TAG)
 
 > [!WARNING]
-> Warnings and advisories in effect. [View here](https://github.com/nameless-and-blameless/TAG/tree/master/advisories)
+> Warnings and advisories in effect. [View here](https://github.com/nameless-and-blameless/TAG/wiki/ALERTS)
 
 ## Overview
 
@@ -73,7 +73,7 @@ The StopTAG organization was founded in response to a series of horrific attacks
      - [Drafts](https://github.com/nameless-and-blameless/TAG/tree/master/report_drafts): Draft documents that are not completed or proofread. We recommend asking your higher power for guidance.
 - **[Emergency Protocols](https://github.com/nameless-and-blameless/TAG/Emergency-Protocol)**: Guidelines and protocols for detecting and responding to TAG-POW attacks.
 - **Community Support**: Resources for victims and communities affected by TAG.
-- **[Advisories](https://github.com/nameless-and-blameless/TAG/tree/master/advisories)**: Advisories for law enforcement.
+- **[Advisories](https://github.com/nameless-and-blameless/TAG/wiki/ALERTS)**: Advisories for law enforcement.
 
 ## Contact Us
 
