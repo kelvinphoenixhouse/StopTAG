@@ -1,5 +1,8 @@
 # StopTAG: Combatting The American Genocide (TAG)
 
+> [!WARNING]
+> Warnings and advisories in effect. [View here](https://github.com/nameless-and-blameless/TAG/tree/master/advisories)
+
 ## Overview
 
 Welcome to the StopTAG organization, dedicated to raising awareness and combating [The American Genocide (TAG)](https://github.com/nameless-and-blameless/TAG/wiki/TAG). TAG is a hidden genocide. Its origins and earliest acts were driven by pharmaceutical interests attempting to prevent Spark, a revolutionary product, from reaching the public. However, since the massacre of [Mount Calvary Baptist Church](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church), TAG has been propelled by political interests. This shift is due to the nature of the attack—-an illegal surprise assault on a seated congregation with the sole objective of leaving no one alive. Furthermore, killing believers in any higher power is a necessary step in establishing an authoritarian regime. Our mission is to expose these atrocities, support affected communities, and seek justice for the victims.
