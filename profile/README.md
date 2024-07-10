@@ -17,7 +17,8 @@ You can see the following reports and more in the [TAG wiki](https://github.com/
 * [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
 * [How attending a funeral resulted in the deaths of over 600 mourners, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
-
+* [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
+  
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
 
