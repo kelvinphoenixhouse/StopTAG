@@ -5,6 +5,7 @@
 
 > [!IMPORTANT]
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
+> If you're concerned about your safety and want to help the Biblical man-child see [the baby needs food](https://gist.github.com/nameless-and-blameless/2ead31d965e75a1f0db177aefb8de759).
 
 ## Overview
 
