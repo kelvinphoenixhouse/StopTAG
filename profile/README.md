@@ -26,7 +26,8 @@ You can see the following reports and more in the [TAG wiki](https://github.com/
      - [How attending Jade M. Stone's phantom funeral resulted in the death of Bob Corker](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Jade-M.-Stone)
 * [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
-* [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
+* [The Revelation & Apocalypse](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
+     - [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
   
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
