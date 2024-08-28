@@ -13,11 +13,14 @@ Welcome to the StopTAG organization, dedicated to raising awareness and combatin
 
 ## Learn
 You can see the following reports and more in the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki/):
+* [The Creator](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
+     - [The Creator's two servants](https://#)
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
-     - [Unpacking: Shady Love](https://github.com/nameless-and-blameless/TAG/wiki/Shady-Love)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
+* [The Creator’s Influence on the Arts to Reveal Hidden Realities and Provide Direct Access to Truth](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator-and-The-Arts)
+     - [Unpacking: Shady Love](https://github.com/nameless-and-blameless/TAG/wiki/Shady-Love)
 * [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
 * [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
