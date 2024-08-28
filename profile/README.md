@@ -4,6 +4,7 @@
 > Warnings and advisories in effect. [View here](https://github.com/nameless-and-blameless/TAG/wiki/ALERTS)
 
 > [!IMPORTANT]
+> [The Apocalypse is underway.](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 ## Overview
