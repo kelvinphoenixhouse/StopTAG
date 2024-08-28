@@ -14,7 +14,7 @@ Welcome to the StopTAG organization, dedicated to raising awareness and combatin
 ## Learn
 You can see the following reports and more in the [TAG wiki](https://github.com/nameless-and-blameless/TAG/wiki/):
 * [The Creator](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
-     - [The Creator's two servants](https://#)
+     - [The Creator's two servants](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator's-two-servants)
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
