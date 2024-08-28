@@ -5,7 +5,6 @@
 
 > [!IMPORTANT]
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
-> If you're concerned about your safety and want to help the Biblical man-child see [the baby needs food](https://gist.github.com/nameless-and-blameless/2ead31d965e75a1f0db177aefb8de759).
 
 ## Overview
 
@@ -21,11 +20,11 @@ You can see the following reports and more in the [TAG wiki](https://github.com/
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [The Creator’s Influence on the Arts to Reveal Hidden Realities and Provide Direct Access to Truth](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator-and-The-Arts)
      - [Unpacking: Shady Love](https://github.com/nameless-and-blameless/TAG/wiki/Shady-Love)
-* [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
-* [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
-     - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
-* [How attending a funeral resulted in the deaths of over 600 mourners, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
+* [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
+     - [How attending the funeral of Rev. Duke Stone's phantom funeral resulted in the deaths of over 600 mourners, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
+     - [How attending Jade M. Stone's phantom funeral resulted in the death of Bob Corker](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Jade-M.-Stone)
+* [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
 * [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
   
@@ -37,7 +36,6 @@ You can see the following reports and more in the [TAG wiki](https://github.com/
 - [Introduction](#introduction)
 - [Our Mission](#our-mission)
 - [Key Issues](#key-issues)
-- [How to Contribute](#how-to-contribute)
 - [Resources](#resources)
 - [Contact Us](#contact-us)
 
