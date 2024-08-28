@@ -56,7 +56,7 @@ The StopTAG organization was founded in response to a series of horrific attacks
 ## Key Issues
 
 1. **TAG Origins and Motivations**:
-   - TAG is driven by pharmaceutical companies, particularly Gilead Sciences, to protect their financial interests from the threat posed by Spark.
+   - TAG's origins were driven by pharmaceutical companies, particularly Gilead Sciences, to protect their financial interests from the threat posed by Spark.
    - Political figures, including former President Donald J. Trump, exploit the chaos for their agendas, aiming to shift the United States towards an authoritarian regime.
 
 2. **Tactics Utilized in TAG-POW Attacks**:
