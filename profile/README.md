@@ -8,7 +8,7 @@
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 > [!WARNING]
-> Due to recent high-profile events and security concerns, including the presence of Presidents Joseph Biden and Donald Trump and ongoing threats, access to the Phoenix House at 1296 Murphy Avenue, Atlanta, Georgia, is restricted. Visitors should exercise extreme caution--they are using lethal force unnecessarily. Unauthorized entry is prohibited and may result in legal consequences. Anyone coming to visit me should contact me so I can escort you in--ignore them!
+> Due to recent high-profile events and security concerns, including the presence of Presidents Joseph Biden and Donald Trump and ongoing threats, access to the Phoenix House at 1296 Murphy Avenue, Atlanta, Georgia, is restricted. Visitors should exercise extreme caution--they are using lethal force against me unnecessarily. Unauthorized entry is prohibited and may result in legal consequences. Anyone coming to visit me should contact me so I can escort you in--ignore them!
 
 ## Overview
 
