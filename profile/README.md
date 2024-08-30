@@ -27,7 +27,6 @@ You can see the following reports and more in the [TAG wiki](https://github.com/
 * [How the government uses Donald Trump to cover it up](https://github.com/nameless-and-blameless/TAG/wiki/Donald-J.-Trump)
 * [The cover-up operations that kill mourners at fake funerals designed to kill a victims associates.](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
      - [How attending the funeral of Rev. Duke Stone's phantom funeral resulted in the deaths of over 600 mourners, with Trump watching](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone)
-     - [How attending Jade M. Stone's phantom funeral resulted in the death of Bob Corker](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Jade-M.-Stone
 * [Why 911 failed & How they keep a genocide hidden](https://github.com/nameless-and-blameless/TAG/wiki/Tactics-Utilized-In-TAG)
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
 * [The Revelation & Apocalypse](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
