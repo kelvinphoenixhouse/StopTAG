@@ -8,9 +8,9 @@
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 > [!TIP]
-> Since August 28th, Presidents Biden and Trump, Speaker of the House Pelosi, Senator Mitch McConnell, and CIA Director Bill Burns have been at  Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. (last updated 2024-09-05 22:45 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki)
+> Since August 28th, Presidents Biden and Trump, Senator Mitch McConnell, and CIA Director William Burns have been at Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. (last updated 2024-09-05 22:45 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki)
 
-## The American Genocide: The Revelation Revelation from the Creator’s Special Mission
+## The American Genocide: The Revelation from the Creator’s Special Mission
 
 The Creator has revealed that TAG, *The American Genocide*, is, in fact, a genocide—though hidden from plain sight. Driven by authoritarianism, political agendas, and narrow viewpoints, this atrocity has been growing as an undercurrent in society. The only way to end this hidden genocide is through direct intervention by the Creator. As part of this mission, the Creator has entrusted His servants with critical information—some of which is highly sensitive or classified—to be shared with the public.
 
