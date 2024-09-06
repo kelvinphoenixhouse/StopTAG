@@ -24,7 +24,7 @@ Attacks on churches, like Mount Calvary Baptist Church, followed by six addition
 
 The perpetrators of The American Genocide started attacking seated congregations in churches during their weekly worship hour. Each attack follows the tactics described in "Hurricane Annie" Jacobsen's book *Surprise, Kill, Vanish*, which details sudden, high-intensity assaults, execution-style killings, and the careful disposal of evidence to erase all traces of the violence. These tactics illustrate the dark capabilities of covert operations designed to silence perceived threats and obliterate evidence of their existence.
 
-### Churches Attacked
+### [Churches Attacked](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
 
 1. **Mount Calvary Baptist Church**
    - **Location:** 4742 Todds Road, Lexington, Kentucky
