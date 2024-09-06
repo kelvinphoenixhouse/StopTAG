@@ -8,7 +8,7 @@
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 > [!TIP]
-> Since August 28th, Presidents Biden and Trump, Speaker of the House Pelosi, Senator Mitch McConnell, and CIA Director Bill Burns have been a5 Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. (last updated 2024-09-05 22:45 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki)
+> Since August 28th, Presidents Biden and Trump, Speaker of the House Pelosi, Senator Mitch McConnell, and CIA Director Bill Burns have been at  Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. (last updated 2024-09-05 22:45 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki)
 
 ## Overview
 
