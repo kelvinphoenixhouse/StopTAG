@@ -88,8 +88,9 @@ The perpetrators of The American Genocide started attacking seated congregations
    - **Attack Date:** May 12, 2024
    - **Casualties:** 1000+
   
-## Acts
-**Acts Constituting Genocide**: The intent to destroy the groups have be carried out through various acts, including:
+## Acts Constituting Genocide
+The intent to destroy the groups has been demonstrated through various acts, including:
+
 * **Killing members of the group**
      - Targeted killing
      - [Mass killing - Seated congregations](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
@@ -103,6 +104,7 @@ The perpetrators of The American Genocide started attacking seated congregations
 * **Imposing measures intended to prevent births** within the group
      - [Forced sterilization via "24-7", and certain other brands of low-cost cigarettes](https://github.com/nameless-and-blameless/TAG/wiki/Cigarettes)
 * **Forcibly transferring children of the group** to another group
+     - Not applicable in TAG, infants and children are killed.
 
 ## The Creator
 
