@@ -18,6 +18,29 @@ The American Genocide (TAG) began in response to the introduction of Spark, a gr
 
 Attacks on churches, like Mount Calvary Baptist Church, followed by six additional churches, marked a shift from corporate interests to an authoritarian agenda driven by political elites. The acts were deemed necessary to establish an authoritarian regime in the United States with Donald J. Trump as the supreme leader. The perpetrators have engaged in continued acts of violence, using commandeered churches holding funerals and food pantries solely to kill anyone who comes. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/TAG)
 
+## The American Genocide: Targeted Groups
+Here’s the revised list of targeted groups:
+
+1. **The families, friends, and associates of the Creator's two servants**
+   - Individuals connected to the Creator’s two servants through familial ties, friendships, or professional and personal associations.
+   - Status: 99% eliminated.
+
+2. **Christians and other believers in a higher power**
+   - Followers of Christianity and adherents of other faiths that recognize the Creator as the  supreme being or higher power.
+   - Status: 7 Christian churches eliminated.
+
+3. **The impoverished**
+   - Individuals living in poverty, regardless of their ethnicity, race, or nationality, often marginalized and discriminated against due to their socioeconomic status.
+
+4. **Alpha males (defined by penile-length)**
+   - Males identified as "alpha" based on the specific criterion of penile length, potentially targeted for their perceived dominance or leadership qualities.
+
+5. **Business leaders**
+   - Individuals of either sex who are recognized as leaders or dominant figures in the business world, possibly targeted for their influence, power, or success.
+
+6. **Political opposition**
+   - Individuals or groups who opposed Donald J. Trump or resisted the authoritarian agenda, potentially targeted for their dissenting views or actions against these political forces.
+
 ## The American Genocide: Church Attacks
 
 The perpetrators of The American Genocide started attacking seated congregations in churches during their weekly worship hour. Each attack follows the tactics described in "Hurricane Annie" Jacobsen's book *Surprise, Kill, Vanish*, which details sudden, high-intensity assaults, execution-style killings, and the careful disposal of evidence to erase all traces of the violence. These tactics illustrate the dark capabilities of covert operations designed to silence perceived threats and obliterate evidence of their existence. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
