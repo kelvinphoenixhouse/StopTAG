@@ -93,16 +93,16 @@ The intent to destroy the groups has been demonstrated through various acts, inc
 
 * **Killing members of the group**
      - Targeted killing
-     - [Mass killing - Seated congregations](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
-     - [Mass Killing - Phantom funerals](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
-     - [Mass Killing - Food Pantries](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
+     - [Mass killing - Seated congregations (Christians)](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
+     - [Mass Killing - Phantom funerals (Christians, associates, cover-up)](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
+     - [Mass Killing - Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 * **Causing serious bodily or mental harm** to members of the group
      - [Hypnos Infiltration Method conducted on millions of Americans daily](https://github.com/nameless-and-blameless/TAG/wiki/Hypnos-Infiltration-Tactic)
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
 
     - [The solutions for alpha males](https://github.com/nameless-and-blameless/TAG/wiki/Targeting-Alpha-Males)
 * **Imposing measures intended to prevent births** within the group
-     - [Forced sterilization via "24-7", and certain other brands of low-cost cigarettes](https://github.com/nameless-and-blameless/TAG/wiki/Cigarettes)
+     - [Forced sterilization via "24-7", and certain other brands of low-cost cigarettes (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Cigarettes)
 * **Forcibly transferring children of the group** to another group
      - Not applicable in TAG, infants and children are killed.
 
