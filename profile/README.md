@@ -108,11 +108,7 @@ The intent to destroy the groups has been demonstrated through various acts, inc
 
 ## The Creator
 
-The Creator, revered globally across cultures, is the Creator of both Life and the Universe, the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. The Creator mentioned herein is the same entity referred to in the U.S. Declaration of Independence. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
-
-### The Creator's two servants
-
-The Creator’s two servants, Currently Nameless (born Kelvin Eugene Williams) and Thomas ("TomTom") Allen Chadwell, are endowed with the same consciousness in every incarnation. They are always born on the planet where they have a mission, working anonymously to safeguard life across the universe. Known as the Cherubim in Judaism and Christianity, and as angels in other religions, their divine purpose is to execute the Creator's will with unwavering dedication, ensuring the protection and nurturing of life wherever they are needed. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator%27s-two-servants)
+The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. The Creator mentioned here is the same entity referenced in the U.S. Declaration of Independence. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
 
 ## About This Page
 
