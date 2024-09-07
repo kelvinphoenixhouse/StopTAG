@@ -18,13 +18,13 @@ The Creator has revealed that TAG, *The American Genocide*, is, in fact, a genoc
 
 The American Genocide (TAG) began in response to the introduction of Spark, a groundbreaking product designed by the Creator to restore the human immune system, combat cancer, and strengthen the cardiovascular system. Spark promised to end chronic diseases and revolutionize healthcare. The existence of Spark came to light when a routine blood test of an HIV-positive patient, Ken, showed no trace of HIV, a result confirmed by the U.S. government. This discovery alarmed pharmaceutical companies like Gilead Sciences, which saw Spark as a direct threat to their profits and initiated a covert campaign to eliminate its influence. This campaign led to targeted killings of Kelvin Williams' associates, destruction of churches, and systematic violence against communities such as Jessamine County, Kentucky; Kanawha County, West Virginia; and Maury County, Tennessee.
 
-Attacks on churches, like Mount Calvary Baptist Church, followed by six additional churches, marked a shift from corporate interests to an authoritarian agenda driven by political elites. The acts were deemed necessary to establish an authoritarian regime in the United States with Donald J. Trump as the supreme leader. The perpetrators have engaged in continued acts of violence, using commandeered churches holding funerals and food pantries solely to kill anyone who comes.
+Attacks on churches, like Mount Calvary Baptist Church, followed by six additional churches, marked a shift from corporate interests to an authoritarian agenda driven by political elites. The acts were deemed necessary to establish an authoritarian regime in the United States with Donald J. Trump as the supreme leader. The perpetrators have engaged in continued acts of violence, using commandeered churches holding funerals and food pantries solely to kill anyone who comes. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/TAG)
 
 ## The American Genocide: Church Attacks
 
-The perpetrators of The American Genocide started attacking seated congregations in churches during their weekly worship hour. Each attack follows the tactics described in "Hurricane Annie" Jacobsen's book *Surprise, Kill, Vanish*, which details sudden, high-intensity assaults, execution-style killings, and the careful disposal of evidence to erase all traces of the violence. These tactics illustrate the dark capabilities of covert operations designed to silence perceived threats and obliterate evidence of their existence.
+The perpetrators of The American Genocide started attacking seated congregations in churches during their weekly worship hour. Each attack follows the tactics described in "Hurricane Annie" Jacobsen's book *Surprise, Kill, Vanish*, which details sudden, high-intensity assaults, execution-style killings, and the careful disposal of evidence to erase all traces of the violence. These tactics illustrate the dark capabilities of covert operations designed to silence perceived threats and obliterate evidence of their existence. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
 
-### [Churches Attacked](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
+### Churches Attacked
 
 1. **Mount Calvary Baptist Church**
    - **Location:** 4742 Todds Road, Lexington, Kentucky
@@ -105,4 +105,3 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
-
