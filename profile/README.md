@@ -19,7 +19,6 @@ The American Genocide (TAG) began in response to the introduction of Spark, a gr
 Attacks on churches, like Mount Calvary Baptist Church, followed by six additional churches, marked a shift from corporate interests to an authoritarian agenda driven by political elites. The acts were deemed necessary to establish an authoritarian regime in the United States with Donald J. Trump as the supreme leader. The perpetrators have engaged in continued acts of violence, using commandeered churches holding funerals and food pantries solely to kill anyone who comes. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/TAG)
 
 ## The American Genocide: Targeted Groups
-Here’s the revised list of targeted groups:
 
 1. **The families, friends, and associates of the Creator's two servants**
    - Individuals connected to the Creator’s two servants through familial ties, friendships, or professional and personal associations.
