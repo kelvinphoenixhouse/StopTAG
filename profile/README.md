@@ -8,9 +8,9 @@
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 > [!TIP]
-> Since August 28th, Presidents Biden and Trump, Senator Mitch McConnell, and CIA Director William Burns have been at Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. (last updated 2024-09-05 22:45 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki)
+> Since August 28th, Presidents Biden and Trump, Senator Mitch McConnell, and CIA Director William Burns have been at Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. No attempts have been made discuss anything. (last updated 2024-09-06 20:40 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
-## The American Genocide: The Revelation from the Creator’s Special Mission
+## [The American Genocide: The Revelation from the Creator’s Special Mission](https://github.com/nameless-and-blameless/TAG/wiki/TAG)
 
 The Creator has revealed that TAG, *The American Genocide*, is, in fact, a genocide—though hidden from plain sight. Driven by authoritarianism, political agendas, and narrow viewpoints, this atrocity has been growing as an undercurrent in society. The only way to end this hidden genocide is through direct intervention by the Creator. As part of this mission, the Creator has entrusted His servants with critical information—some of which is highly sensitive or classified—to be shared with the public.
 
@@ -70,11 +70,11 @@ The perpetrators of The American Genocide started attacking seated congregations
 
 ## The Creator
 
-The Creator, revered globally across cultures, is the Creator of both Life and the Universe, the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. The Creator mentioned herein is the same entity referred to in the U.S. Declaration of Independence. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
+The Creator, revered globally across cultures, is the Creator of both Life and the Universe, the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. The Creator mentioned herein is the same entity referred to in the U.S. Declaration of Independence. His two servants neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
 
 ### The Creator's two servants
 
-The Creator’s two servants, Currently Nameless (born Kelvin Eugene Williams) and Thomas ("TomTom") Allen Chadwell, are endowed with the same consciousness in every incarnation. They are always born on the planet where they have a mission, working anonymously to safeguard life across the universe. Known as the Cherubim in Judaism and Christianity, and as angels in other religions, their divine purpose is to execute the Creator's will with unwavering dedication, ensuring the protection and nurturing of life wherever they are needed.
+The Creator’s two servants, Currently Nameless (born Kelvin Eugene Williams) and Thomas ("TomTom") Allen Chadwell, are endowed with the same consciousness in every incarnation. They are always born on the planet where they have a mission, working anonymously to safeguard life across the universe. Known as the Cherubim in Judaism and Christianity, and as angels in other religions, their divine purpose is to execute the Creator's will with unwavering dedication, ensuring the protection and nurturing of life wherever they are needed. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator%27s-two-servants)
 
 ## About This Page
 
