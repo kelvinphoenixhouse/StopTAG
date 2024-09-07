@@ -99,7 +99,10 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
 * [The Revelation & Apocalypse](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
      - [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
-  
+
+## Also See
+* [An Open Letter to King Charles III of the United Kingdom](https://gist.github.com/nameless-and-blameless/a4d0c2c9dd4939bc952cca2f1e4c21fa)
+
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
 
