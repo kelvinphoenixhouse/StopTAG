@@ -123,8 +123,14 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 
 * [The Creator](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
      - [The Creator's two servants](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator's-two-servants)
-* [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
+* [The massacre of House of God on Georgetown Street, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Georgetown-Street))
+* [The massacre of House of God on Broadway, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Broadway))
+* [The massacre of Lexington Bethel Baptist Church, a predominantly white congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Lexington-Bethel-Baptist-Church)
+* [The massacre of Mount Zion Baptist Church, a predominantly black congregation in Georgetown, KY](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Zion-Baptist-Church)
+* [The massacre of Calvary Baptist Church, a predominantly white congregation in Lexington, KY ](https://github.com/nameless-and-blameless/TAG/wiki/Calvary-Baptist-Church)
+* [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
+
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [The Creator’s Influence on the Arts to Reveal Hidden Realities and Provide Direct Access to Truth](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator-and-The-Arts)
