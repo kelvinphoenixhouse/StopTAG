@@ -52,24 +52,24 @@ The perpetrators of The American Genocide started attacking seated congregations
    - **Attack Date:** April 2, 2023
    - **Casualties:** 127
 
-2. **Lexington Bethel Baptist Church**
-   - **Location:** 4686 Todds Road, Lexington, Kentucky
-   - **Congregation:** Predominantly Caucasian
-   - **Attack Date:** May 2023
-   - **Casualties:** 250+
-
-3. **House of God (Georgetown Street)**
+2. **House of God (Georgetown Street)**
    - **Location:** Georgetown Street, Lexington, Kentucky
    - **Congregation:** Predominantly African American
    - **Attack Date:** May 2023
    - **Casualties:** 300+
 
-4. **House of God (Broadway)**
+3. **House of God (Broadway)**
    - **Location:** Broadway, Lexington, Kentucky
    - **Congregation:** Predominantly African American
    - **Attack Date:** May 2023
    - **Casualties:** 300+
 
+4. **Lexington Bethel Baptist Church**
+   - **Location:** 4686 Todds Road, Lexington, Kentucky
+   - **Congregation:** Predominantly Caucasian
+   - **Attack Date:** May 2023
+   - **Casualties:** 250+
+   
 5. **Mount Zion Baptist Church**
    - **Location:** Georgetown, Kentucky
    - **Congregation:** Predominantly African American
@@ -123,12 +123,12 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 
 * [The Creator](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
      - [The Creator's two servants](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator's-two-servants)
-* [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
-* [The massacre of House of God on Georgetown Street, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Georgetown-Street))
-* [The massacre of House of God on Broadway, a predominantly black congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Broadway))
-* [The massacre of Lexington Bethel Baptist Church, a predominantly white congregation in Lexington, KY.](https://github.com/nameless-and-blameless/TAG/wiki/Lexington-Bethel-Baptist-Church)
+* [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY on April 2, 2023](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
+* [The massacre of House of God on Georgetown Street, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Georgetown-Street))
+* [The massacre of House of God on Broadway, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Broadway))
+* [The massacre of Lexington Bethel Baptist Church, a predominantly white congregation in Lexington, KY in June 2023.](https://github.com/nameless-and-blameless/TAG/wiki/Lexington-Bethel-Baptist-Church)
 * [The massacre of Mount Zion Baptist Church, a predominantly black congregation in Georgetown, KY](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Zion-Baptist-Church)
-* [The massacre of Calvary Baptist Church, a predominantly white congregation in Lexington, KY ](https://github.com/nameless-and-blameless/TAG/wiki/Calvary-Baptist-Church)
+* [The massacre of Calvary Baptist Church, a predominantly white congregation in Lexington, KY on Mother's Day 2024](https://github.com/nameless-and-blameless/TAG/wiki/Calvary-Baptist-Church)
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
 
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
