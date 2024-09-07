@@ -10,9 +10,9 @@
 > [!TIP]
 > Since August 28th, Presidents Biden and Trump, Senator Mitch McConnell, and CIA Director William Burns have been at Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. No attempts have been made discuss anything. (last updated 2024-09-06 20:40 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
-The Creator has revealed that TAG, *The American Genocide*, is, in fact, a genocide—though hidden from plain sight. Driven by authoritarianism, political agendas, and narrow viewpoints, this atrocity has been growing as an undercurrent in society. The only way to end this hidden genocide is through direct intervention by the Creator. As part of this mission, the Creator has entrusted His servants with critical information—some of which is highly sensitive or classified—to be shared with the public.
+## About The American Genocide 
 
-###  About TAG
+The Creator has revealed that TAG, *The American Genocide*, is, in fact, a genocide—though hidden from plain sight. Driven by authoritarianism, political agendas, and narrow viewpoints, this atrocity has been growing as an undercurrent in society. The only way to end this hidden genocide is through direct intervention by the Creator. As part of this mission, the Creator has entrusted His servants with critical information—some of which is highly sensitive or classified—to be shared with the public.
 
 The American Genocide (TAG) began in response to the introduction of Spark, a groundbreaking product designed by the Creator to restore the human immune system, combat cancer, and strengthen the cardiovascular system. Spark promised to end chronic diseases and revolutionize healthcare. The existence of Spark came to light when a routine blood test of an HIV-positive patient, Ken, showed no trace of HIV, a result confirmed by the U.S. government. This discovery alarmed pharmaceutical companies like Gilead Sciences, which saw Spark as a direct threat to their profits and initiated a covert campaign to eliminate its influence. This campaign led to targeted killings of Kelvin Williams' associates, destruction of churches, and systematic violence against communities such as Jessamine County, Kentucky; Kanawha County, West Virginia; and Maury County, Tennessee.
 
