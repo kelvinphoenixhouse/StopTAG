@@ -115,6 +115,8 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 
 * [The Creator](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator)
      - [The Creator's two servants](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator's-two-servants)
+* [The Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes)
+     - [Presidents Biden & Trump Make TOP-SECRET Trip to Atlanta](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY on April 2, 2023](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [The massacre of House of God on Georgetown Street, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Georgetown-Street))
 * [The massacre of House of God on Broadway, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Broadway))
@@ -122,7 +124,6 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 * [The massacre of Mount Zion Baptist Church, a predominantly black congregation in Georgetown, KY](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Zion-Baptist-Church)
 * [The massacre of Calvary Baptist Church, a predominantly white congregation in Lexington, KY on Mother's Day 2024](https://github.com/nameless-and-blameless/TAG/wiki/Calvary-Baptist-Church)
 * [The massacre of Hickory Valley Christian Church, a predominantly white congregation in suburban Chattanooga on Mother's Day 2024.](https://github.com/nameless-and-blameless/TAG/wiki/Hickory-Valley-Christian-Church)
-
 * [Numerous performing artists and musicians murdered](https://github.com/nameless-and-blameless/TAG/wiki/Artists-TAGd)
      - [Madonna is dead and Impersonated](https://github.com/nameless-and-blameless/TAG/wiki/Madonna)
 * [The Creator’s Influence on the Arts to Reveal Hidden Realities and Provide Direct Access to Truth](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator-and-The-Arts)
@@ -135,6 +136,7 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 * [The CIA's masquerade: Mount Calvary Missionary Baptist Church, Inc.](https://github.com/nameless-and-blameless/TAG/wiki/_MCMBCI)
 * [The Revelation & Apocalypse](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
      - [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
+
 
 ## Also See
 * [An Open Letter to King Charles III of the United Kingdom](https://gist.github.com/nameless-and-blameless/a4d0c2c9dd4939bc952cca2f1e4c21fa)
