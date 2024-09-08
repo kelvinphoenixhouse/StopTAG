@@ -3,13 +3,9 @@
 > [!WARNING]
 > Microwave Cloaking technology is being misused by the CIA and contractors to infiltrate and target American citizens, making them invisible and able to pass through walls undetected. Be vigilant for visual distortions that resemble cellophane and report suspicious activities immediately. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
-
 > [!IMPORTANT]
 > [The Apocalypse is underway.](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
-
-> [!TIP]
-> Since August 28th, Presidents Biden and Trump, Senator Mitch McConnell, and CIA Director William Burns have been at Phoenix House in Atlanta to oversee the murder of one of the Creator's two servants in a TOP-SECRET mission. No attempts have been made discuss anything. (last updated 2024-09-06 20:40 Eastern) See [Presidential Visit](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
 ## About The American Genocide 
 The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a revolutionary cure for HIV that restores the human immune system to its designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
