@@ -23,18 +23,22 @@ Former President Donald J. Trump was aware of the initial operations to eliminat
 2. **Christians and other believers in a higher power**
    - Followers of Christianity and adherents of other faiths that recognize the Creator as the  supreme being or higher power.
    - Status: 7 Christian churches eliminated.
+   - [See: The American Genocide in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
 
 3. **The impoverished**
    - Individuals living in poverty, regardless of their ethnicity, race, or nationality, often marginalized and discriminated against due to their socioeconomic status.
+   - [Mass Killing - Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 
 4. **Alpha males (defined by penile-length)**
    - Males identified as "alpha" based on the specific criterion of penile length, potentially targeted for their perceived dominance or leadership qualities.
 
 5. **Business leaders**
    - Individuals of either sex who are recognized as leaders or dominant figures in the business world, possibly targeted for their influence, power, or success.
+   - [Nanea Reeves - Los Angeles](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
 
 6. **Political opposition**
    - Individuals or groups who opposed Donald J. Trump or resisted the authoritarian agenda, potentially targeted for their dissenting views or actions against these political forces.
+
 
 ## The American Genocide: Church Attacks
 
