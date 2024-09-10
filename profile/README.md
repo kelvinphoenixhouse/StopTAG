@@ -149,6 +149,8 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 
 ## Also See
 * [An Open Letter to King Charles III of the United Kingdom](https://gist.github.com/nameless-and-blameless/a4d0c2c9dd4939bc952cca2f1e4c21fa)
+* [Threat from Donald J. Trump to one of the Creator's two servants](https://gist.github.com/nameless-and-blameless/911666baf39f2b8a935d68ccb419ccfd)
+     - He's butthurt 
 
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
