@@ -1,7 +1,7 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
 > [!WARNING]
-> Microwave cloaking technology has been overused by the CIA and abused by its contractors to kill American citizens in their homes. This technology renders the user nearly invisible and able to pass through walls undetected. Be vigilant for visual distortions that resemble looking through cellophane, and report suspicious activities immediately. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
+> The Creator and His two servants have issued an urgent warning to residents of central Kentucky and the Tennessee Valley around Chattanooga about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
 > [!IMPORTANT]
 > [The Apocalypse is underway.](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
