@@ -8,7 +8,7 @@
 > Read the Creator's [Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 ## About The American Genocide 
-The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a revolutionary cure for HIV that restores the human immune system to its designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
+The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a gift from the Creator  that restores the human immune system to His designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
 
 Former President Donald J. Trump was aware of the initial operations to eliminate associates of the Creator's servant and continued to be consulted about subsequent attacks. This included a series of church assaults, where congregations were targeted during their worship services. These attacks were aimed at eliminating believers, who were viewed as threats to the establishment of authoritarian rule. This hidden genocide represents a dark chapter in modern history. Explore this portal to understand the full scope and impact of TAG.
 
