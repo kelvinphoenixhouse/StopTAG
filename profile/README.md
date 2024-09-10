@@ -142,10 +142,10 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
      - [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
 
 ## Listen
-• [Sign of the Times](https://music.youtube.com/watch?v=SO-rvSerJXc&si=qBCxXwqzAy0TfPIT)
-     - The lead up to The American Genocide 
-* [When the Doves Cry](https://music.youtube.com/watch?v=8EdxM72EZ94&si=oiIfARxVjPKsI3va) by Prince 
-     -  Listen to a mother talking to her children inside a church after "Hurricane Annie" arrives in the middle of a worship session, and hear the prayers made by martyrs in the refrain.
+* [Sign of the Times](https://music.youtube.com/watch?v=SO-rvSerJXc&si=qBCxXwqzAy0TfPIT) by Prince
+   - The lead up to The American Genocide 
+* [When the Doves Cry](https://music.youtube.com/watch?v=8EdxM72EZ94&si=oiIfARxVjPKsI3va) by Prince
+   -  Listen to a mother talking to her children inside a church after "Hurricane Annie" arrives in the middle of a worship session, and hear the prayers made by martyrs in the refrain.
 
 ## Also See
 * [An Open Letter to King Charles III of the United Kingdom](https://gist.github.com/nameless-and-blameless/a4d0c2c9dd4939bc952cca2f1e4c21fa)
