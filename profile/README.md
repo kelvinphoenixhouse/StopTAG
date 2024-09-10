@@ -152,5 +152,10 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 * [Threat from Donald J. Trump to one of the Creator's two servants](https://gist.github.com/nameless-and-blameless/911666baf39f2b8a935d68ccb419ccfd)
      - He's butthurt 
 
+> [!TIP]
+> Don't believe something here... Pray.
+> 
+> Don’t want to pray? That’s fine. Just consider why former President Donald J. Trump, who is running for re-election and is a key figure in the Trump brand, hasn’t served either of the Creator’s two servants with a cease and desist order or sued them for defamation regarding this public GitHub repository?
+
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
