@@ -1,8 +1,5 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
-> [!TIP]
-> The Creator says, Listen to "Sir Duke" by Stevie Wonder right now! and on repeat for the next hour.
-
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky and the Tennessee Valley around Chattanooga about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
