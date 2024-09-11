@@ -33,7 +33,6 @@ Former President Donald J. Trump was aware of the initial operations to eliminat
 
 5. **Business leaders**
    - Individuals of either sex who are recognized as leaders or dominant figures in the business world, possibly targeted for their influence, power, or success.
-   - [Nanea Reeves - Los Angeles](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
 
 6. **Political opposition**
    - Individuals or groups who opposed Donald J. Trump or resisted the authoritarian agenda, potentially targeted for their dissenting views or actions against these political forces.
@@ -92,9 +91,11 @@ The intent to destroy the groups has been demonstrated through various acts, inc
 
 * **Killing members of the group**
      - Targeted killing
-     - [Mass killing - Seated congregations (Christians)](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
-     - [Mass Killing - Phantom funerals (Christians, associates, cover-up)](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
-     - [Mass Killing - Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
+       - [Nanea Reeves](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
+     - Massacres
+       - [Seated congregations (Christians)](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
+       - [Phantom funerals (Christians, associates, cover-up)](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
+       - [Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 * **Causing serious bodily or mental harm** to members of the group
      - [Hypnos Infiltration Method conducted on millions of Americans daily](https://github.com/nameless-and-blameless/TAG/wiki/Hypnos-Infiltration-Tactic)
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
