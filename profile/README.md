@@ -25,7 +25,6 @@ Former President Donald J. Trump was aware of the initial operations to eliminat
 
 3. **The impoverished**
    - Individuals living in poverty, regardless of their ethnicity, race, or nationality, often marginalized and discriminated against due to their socioeconomic status.
-   - [Mass Killing - Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 
 4. **Alpha males (defined by penile-length)**
    - Males identified as "alpha" based on the specific criterion of penile length, potentially targeted for their perceived dominance or leadership qualities.
