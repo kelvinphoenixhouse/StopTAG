@@ -22,7 +22,6 @@ Former President Donald J. Trump was aware of the initial operations to eliminat
 2. **Christians and other believers in a higher power**
    - Followers of Christianity and adherents of other faiths that recognize the Creator as the  supreme being or higher power.
    - Status: 7 Christian churches eliminated.
-   - [See: The American Genocide in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
 
 3. **The impoverished**
    - Individuals living in poverty, regardless of their ethnicity, race, or nationality, often marginalized and discriminated against due to their socioeconomic status.
@@ -93,9 +92,10 @@ The intent to destroy the groups has been demonstrated through various acts, inc
      - Targeted killing
        - [Nanea Reeves](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
      - Massacres
-       - [Seated congregations (Christians)](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
-       - [Phantom funerals (Christians, associates, cover-up)](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
-       - [Food Pantries (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
+       - [TAG in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
+       - Continued Acts of Violence 
+         - [Phantom Funerals](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
+         - [Food Pantries](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 * **Causing serious bodily or mental harm** to members of the group
      - [Hypnos Infiltration Method conducted on millions of Americans daily](https://github.com/nameless-and-blameless/TAG/wiki/Hypnos-Infiltration-Tactic)
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
