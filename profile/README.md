@@ -1,5 +1,8 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
+> [!IMPORTANT]
+> You can help me save lives right now with two phone calls! [See how.](https://gist.github.com/nameless-and-blameless/1c22cbbe152b2746c8285dddcb9b4b49)
+
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky and the Tennessee Valley around Chattanooga about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
