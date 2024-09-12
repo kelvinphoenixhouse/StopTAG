@@ -10,7 +10,7 @@ We are asking the **general public, everywhere**, to take immediate action by co
 - **Mount Zion Baptist Church (Georgetown, KY)**  
 - **Hamilton Heights Christian Academy (Chattanooga, TN)** (gymnasium on the same property as Hickory Valley Christian Church)
 
-These locations may be sites of **mass killings in progress**, and extreme caution must be exercised. The public and media should closely monitor the outside of these facilities, as the events should be observable. In some locations, the incidents are reported to be happening in the **basement** or **gymnasium**.
+These locations are sites of **mass killings in progress**, and extreme caution must be exercised. The public and media should closely monitor the outside of these facilities, as the events should be observable. In some locations, the incidents are reported to be happening in the **basement** or **gymnasium**.
 
 **Be aware**: Any **advertised or apparent funeral** in progress is a **masquerade**. These are **not real funerals** but lures to draw people inside with the intent of killing them.
 
