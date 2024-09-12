@@ -1,13 +1,27 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
+> [!IMPORTANT]
+> **URGENT CALL TO ACTION FOR CHATTANOOGA AND LEXINGTON METRO AREAS**
+
+We are asking the public in the Chattanooga, TN, and Lexington, KY, metro areas to take immediate action. Please contact every major media outlet, TV station, and on-air broadcast station and demand they visit the following locations:
+
+- **Mount Calvary Baptist Church (Lexington, KY)**  
+- **Mount Zion Baptist Church (Georgetown, KY)**  
+- **Hickory Valley Christian Church/Hamilton Heights Christian Academy (Chattanooga, TN)** (gymnasium at school on the same property)
+
+These locations may be sites of **mass killings in progress**, and extreme caution must be exercised. The public and media should monitor the outside of these facilities, as the events should be observable. In some locations, the incidents are reported to be happening in the **basement** or **gymnasium**.
+
+Please note: **Any advertised or apparent funeral in progress is a masquerade**. These are **not real funerals** but lures designed to draw people inside with the intent of killing them.
+
+Former President **Donald J. Trump** is expected to be at **Hickory Valley Christian Church in Chattanooga, TN**, specifically in the **announcer's booth of the gymnasium** at **Hamilton Heights Christian Academy**.
+
+**Please act now to expose these events and save lives.**
+
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky, the Tennessee Valley around Chattanooga, the northern suburbs of Chicago and Hugheston, WV about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
 > [!IMPORTANT]
 > Be sure to read [the Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
-
-> [!TIP]
-> Presidents Biden and Trump are still on a TOP-SECRET mission in Atlanta to oversee the murder of one or both of the Creator's two servants. [Read more](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
 ## About The American Genocide 
 The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a gift from the Creator  that restores the human immune system to His designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
