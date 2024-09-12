@@ -4,7 +4,10 @@
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky and the Tennessee Valley around Chattanooga about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
 > [!IMPORTANT]
-> Be sure to read [the Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide. 
+> Be sure to read [the Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
+
+> [!TIP]
+> Presidents Biden and Trump are still on a TOP-SECRET mission in Atlanta to oversee the murder of one or both of the Creator's two servants. [Read more](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
 ## About The American Genocide 
 The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a gift from the Creator  that restores the human immune system to His designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
