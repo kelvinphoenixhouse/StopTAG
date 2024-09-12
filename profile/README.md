@@ -1,26 +1,5 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
-> [!IMPORTANT]
-> **URGENT CALL TO ACTION: PUBLIC NATIONWIDE**
-
-We are asking the **general public, everywhere**, to take immediate action by contacting major media outlets and broadcast stations in the **Chattanooga, TN, and Lexington, KY metro areas**. Demand they send reporters to the following locations:
-
-- **Hickory Valley Christian Church (Chattanooga, TN)**  
-- **Mount Calvary Baptist Church (Lexington, KY)**  
-- **Mount Zion Baptist Church (Georgetown, KY)**  
-- **Hamilton Heights Christian Academy (Chattanooga, TN)** (gymnasium on the same property as Hickory Valley Christian Church)
-
-These locations are sites of **mass killings in progress**, and extreme caution must be exercised. The public and media should closely monitor the outside of these facilities, as the events should be observable. In some locations, the incidents are reported to be happening in the **basement** or **gymnasium**.
-
-**Be aware**: Any **advertised or apparent funeral** in progress is a **masquerade**. These are **not real funerals** but lures to draw people inside with the intent of killing them.
-
-When calling the media, **remind them they may be the only chance at saving hundreds, if not thousands, of lives today**. 
-
-**Please act now** to expose these events and help prevent further loss of life.
-
-> [!TIP]
-> Former President **Donald J. Trump** may be at **Hickory Valley Christian Church in Chattanooga, TN**, specifically in the **announcer's booth of the gymnasium** at **Hamilton Heights Christian Academy**.  President Biden and former President Trump have been in Atlanta on a TOP-SECRET mission at Phoenix House. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
-
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky, the Tennessee Valley around Chattanooga, the northern suburbs of Chicago and Hugheston, WV about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
