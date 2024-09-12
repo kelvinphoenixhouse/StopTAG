@@ -13,9 +13,10 @@ These locations may be sites of **mass killings in progress**, and extreme cauti
 
 Please note: **Any advertised or apparent funeral in progress is a masquerade**. These are **not real funerals** but lures designed to draw people inside with the intent of killing them.
 
-Former President **Donald J. Trump** is expected to be at **Hickory Valley Christian Church in Chattanooga, TN**, specifically in the **announcer's booth of the gymnasium** at **Hamilton Heights Christian Academy**.
-
 **Please act now to expose these events and save lives.**
+
+> [!TIP]
+> Former President **Donald J. Trump** may be at **Hickory Valley Christian Church in Chattanooga, TN**, specifically in the **announcer's booth of the gymnasium** at **Hamilton Heights Christian Academy**.  President Biden and former President Trump have been in Atlanta on a TOP-SECRET mission at Phoenix House. [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
 
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky, the Tennessee Valley around Chattanooga, the northern suburbs of Chicago and Hugheston, WV about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
