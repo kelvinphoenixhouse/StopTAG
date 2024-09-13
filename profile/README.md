@@ -107,6 +107,7 @@ The intent to destroy the groups has been demonstrated through various acts, inc
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
 
     - [The solutions for alpha males](https://github.com/nameless-and-blameless/TAG/wiki/Targeting-Alpha-Males)
+  - [The Treatment of Alpha Males During The American Genocide](https://github.com/nameless-and-blameless/TAG/wiki/Treatment-of-Alpha-Males-during-TAG)
 * **Imposing measures intended to prevent births** within the group
      - [Forced sterilization via "24-7", and certain other brands of low-cost cigarettes (impoverished)](https://github.com/nameless-and-blameless/TAG/wiki/Cigarettes)
 * **Forcibly transferring children of the group** to another group
