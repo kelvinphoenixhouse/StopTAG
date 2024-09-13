@@ -130,6 +130,7 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
      - [The Creator's two servants](https://github.com/nameless-and-blameless/TAG/wiki/The-Creator's-two-servants)
 * [The Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes)
      - [Presidents Biden & Trump Make TOP-SECRET Trip to Atlanta](https://github.com/nameless-and-blameless/TAG/wiki/Presidential-Visit)
+* [Orr Chapel Tragedy](https://github.com/nameless-and-blameless/TAG/wiki/Orr-Chapel-Tragedy)
 * [The massacre of Mount Calvary Baptist Church, a predominantly black congregation in Lexington, KY on April 2, 2023](https://github.com/nameless-and-blameless/TAG/wiki/Mount-Calvary-Baptist-Church)
 * [The massacre of House of God on Georgetown Street, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Georgetown-Street))
 * [The massacre of House of God on Broadway, a predominantly black congregation in Lexington, KY in May 2023.](https://github.com/nameless-and-blameless/TAG/wiki/House-of-God-(Broadway))
