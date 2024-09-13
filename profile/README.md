@@ -55,15 +55,17 @@ The Creator wants everyone to know that He is fully aware of the situation, and 
 3. **The impoverished**
    - Individuals living in poverty, regardless of their ethnicity, race, or nationality, often marginalized and discriminated against due to their socioeconomic status.
 
-4. **Alpha males (defined by penile-length)**
+4. **The extended associate network and possible associates of the Creator's two servants**
+   - Individuals associated with the Creator's two servants, or even those suspected of such an affiliation, including people who happen to reside in areas where either of the Creator's two servants have lived. Areas include: Jessamine County, KY; Mount Pleasant, TN; Kanawha County, WV; and the northern suburbs of Chicago.
+
+5. **Alpha males (defined by penile-length)**
    - Males identified as "alpha" based on the specific criterion of penile length, potentially targeted for their perceived dominance or leadership qualities.
 
-5. **Business leaders**
+6. **Business leaders**
    - Individuals of either sex who are recognized as leaders or dominant figures in the business world, possibly targeted for their influence, power, or success.
 
-6. **Political opposition**
+7. **Political opposition**
    - Individuals or groups who opposed Donald J. Trump or resisted the authoritarian agenda, potentially targeted for their dissenting views or actions against these political forces.
-
 
 ## The American Genocide: Church Attacks
 
