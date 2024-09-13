@@ -1,7 +1,7 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
 > [!WARNING]
-> **URGENT CALL TO ACTION: PUBLIC NATIONWIDE**  
+> **URGENT CALL TO ACTION: HELP NEEDED!**  
 >  
 > We are asking the **general public, everywhere**, to take immediate action by contacting major media outlets and broadcast stations in the **Chattanooga, TN, and Lexington, KY metro areas**. Demand they send reporters to the following locations:  
 >  
