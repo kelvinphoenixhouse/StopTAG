@@ -31,7 +31,7 @@
 > Be sure to read [the Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
 
 > [!NOTE]
-> Be sure to verify the identity of anyone claiming to be one of the Creator's two servants with a quick prayer. 
+> Whether in person or online, be sure to verify the identity of anyone claiming to be one of the Creator's two servants, or claiming something produced by them, through prayer or by asking for guidance.
 
 ## About The American Genocide 
 The American Genocide is a covert and devastating campaign initiated in response to [Spark](https://github.com/nameless-and-blameless/TAG/wiki/Spark)—a gift from the Creator  that restores the human immune system to His designed function, allowing it to eliminate any disease not caused by organ failure or dysfunction. Spark's emergence threatened pharmaceutical companies' profits, leading Gilead Sciences and the CIA to launch a brutal campaign against those associated with Spark.
