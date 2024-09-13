@@ -4,7 +4,9 @@
 > The Creator and His two servants have issued warnings about a covert operations ongoing in central Kentucky, the Chattanooga area, the northern suburbs of Chicago and Hugheston, WV. See [Warning](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning) | The Creator and His two servants have issued a warning about many popular apps currently being used for domestic surveillance; saying the wrong thing on these platforms has resulted in numerous Americans being eliminated. See [Domestic Surveillance](https://github.com/nameless-and-blameless/TAG/wiki/Domestic-Surveillance)
 
 > [!IMPORTANT]
-> Be sure to read [the Creator's Statement on Crimes](https://github.com/nameless-and-blameless/TAG/wiki/Statement-on-Crimes) conducted during The American Genocide.
+> Be sure to read *[The Revelation](https://github.com/nameless-and-blameless/TAG/wiki/The-Revelation) from the Creator's Special Mission for the Protection of All Life on Earth*
+>
+> The Creator is about to start the wiggle, and they have [already begun the spin](https://github.com/nameless-and-blameless/TAG/wiki/The-Rapture).
 
 > [!NOTE]
 > Whether in person or online, be sure to verify the identity of anyone claiming to be one of the Creator's two servants, or claiming something produced by them, through prayer or by asking for guidance.
