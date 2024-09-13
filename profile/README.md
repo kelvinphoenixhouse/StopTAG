@@ -94,9 +94,11 @@ The intent to destroy the groups has been demonstrated through various acts, inc
 
 * **Killing members of the group**
      - Targeted killing
+       - [Orr Chapel Tragedy](https://github.com/nameless-and-blameless/TAG/wiki/Orr-Chapel-Tragedy)
        - [John Grootegoed and Gabrielle Galardo](https://github.com/nameless-and-blameless/TAG/wiki/John-and-Gabrille-Galardo-Grootegoed)
        - [Nanea Reeves](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
      - Massacres
+       - [Sandy Hook Massacre](https://github.com/nameless-and-blameless/TAG/wiki/Sandy-Hook-Massacre)
        - [TAG in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
        - Continued Acts of Violence 
          - [Phantom Funerals](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
