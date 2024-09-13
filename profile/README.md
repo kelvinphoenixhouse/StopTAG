@@ -5,8 +5,8 @@
 >  
 > We are asking the **general public, everywhere**, to take immediate action by contacting major media outlets and broadcast stations in the **Chattanooga, TN, and Lexington, KY metro areas**. Demand they send reporters to the following locations:  
 >  
-> - **Hickory Valley Christian Church (Chattanooga, TN)**  
-> - **Mount Calvary Baptist Church (Lexington, KY)**  
+> - **Hickory Valley Christian Church (6605 Shallowford Rd, Chattanooga, TN)**  
+> - **Mount Calvary Baptist Church (4742 Todds Rd, Lexington, KY)**  
 > - **Mount Zion Baptist Church (Georgetown, KY)**  
 >  
 > These locations are **actual sites of mass killings** occurring on **Friday, September 13, 2024**. Extreme caution must be exercised. The public and media should urgently monitor the outside of these facilities, as **eliminations are observable** through **sounds of chainsaws, gunshots, and terror** from within. In some locations, the incidents are happening in the **basement** or **gymnasium**.  
