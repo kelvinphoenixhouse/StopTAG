@@ -12,7 +12,7 @@
 > These locations are **likely sites of mass killings** expected to take place on **Friday, September 13, 2024**. Extreme caution must be exercised. The public and media should closely monitor the outside of these facilities, as **eliminations should be observable** through **sounds of chainsaws, gunshots, and terror** from within. In some locations, the incidents known to be happening in the **basement** or **gymnasium** (of Hamilton Heights Christian Academy at Hickory Valley, the school on the same property).  
 >  
 > - These churches have been **attacked previously** and **masquerades** have been set up to lure victims for elimination by the **perpetrators of TAG**.  
-> - The **masquerade churches** are announcing **funerals and food pantries**; neither of these will be legitimate services at the churches listed above.  
+> - The **masquerade churches** are announcing **funerals and food pantries**; despite appearances neither of these will be legitimate services at the churches listed above.  
 > - The perpetrators have begun **bussing people in from surrounding communities** — anyone who boards the bus will be **eliminated**.  
 > - **Anyone visiting the church will be eliminated**.  
 >  
