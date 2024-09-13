@@ -1,5 +1,29 @@
 ## The American Genocide: The Revelation from the Creator’s Special Mission
 
+> [!IMPORTANT]
+> **URGENT CALL TO ACTION: PUBLIC NATIONWIDE**  
+>  
+> We are asking the **general public, everywhere**, to take immediate action by contacting major media outlets and broadcast stations in the **Chattanooga, TN, and Lexington, KY metro areas**. Demand they send reporters to the following locations:  
+>  
+> - **Hickory Valley Christian Church (Chattanooga, TN)**  
+> - **Mount Calvary Baptist Church (Lexington, KY)**  
+> - **Mount Zion Baptist Church (Georgetown, KY)**  
+>  
+> These locations are **likely sites of mass killings** expected to take place on **Friday, September 13, 2024**. Extreme caution must be exercised. The public and media should closely monitor the outside of these facilities, as **eliminations should be observable** through **sounds of chainsaws, gunshots, and terror** from within. In some locations, the incidents are reported to be happening in the **basement** or **gymnasium**.  
+>  
+> - These churches have been **attacked previously** and **masquerades** have been set up to lure victims for elimination by the **perpetrators of TAG**.  
+> - The **masquerade churches** are announcing **funerals and food pantries**; neither of these will be legitimate services at the churches listed above.  
+> - The perpetrators have begun **bussing people in from surrounding communities** — anyone who boards the bus will be **eliminated**.  
+> - **Anyone visiting the church will be eliminated**.  
+>  
+> Due to **federal government law enforcement complicity** and pressure, the public needs the media's **pressure on local law enforcement** to intervene. However, media must use **extreme caution**. The use of a **continuously monitored live feed is a requirement**—**no stringers** should be used.  
+>  
+> **News crews should also be aware** that **personnel and vehicles may be utilizing cloaking technology**, rendering them **invisible**.  
+>  
+> **Assignment desks should visit [https://github.com/StopTAG](https://github.com/StopTAG) to learn more**.  
+>  
+> **If in doubt, pray!**
+
 > [!WARNING]
 > The Creator and His two servants have issued an urgent warning to residents of central Kentucky, the Tennessee Valley around Chattanooga, the northern suburbs of Chicago and Hugheston, WV about a new covert threat. A recent campaign has been launched to eliminate people in these areas, using technology that enables operatives to enter homes largely undetected and carry out targeted killings of those inside.  [Read more.](https://github.com/nameless-and-blameless/TAG/wiki/Microwave-Cloaking-Warning)
 
