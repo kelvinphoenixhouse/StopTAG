@@ -103,6 +103,7 @@ The intent to destroy the groups has been demonstrated through various acts, inc
          - [Food Pantries](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
 * **Causing serious bodily or mental harm** to members of the group
      - [Hypnos Infiltration Method conducted on millions of Americans daily](https://github.com/nameless-and-blameless/TAG/wiki/Hypnos-Infiltration-Tactic)
+     - [The Treatment of Alpha Males During The American Genocide](https://github.com/nameless-and-blameless/TAG/wiki/Treatment-of-Alpha-Males-during-TAG)
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
 
     - [The solutions for alpha males](https://github.com/nameless-and-blameless/TAG/wiki/Targeting-Alpha-Males)
