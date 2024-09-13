@@ -175,6 +175,14 @@ Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki
 * [The Revelation & Apocalypse](https://github.com/nameless-and-blameless/TAG/wiki/Revelation)
      - [The Judgment of Satan, Donald J. Trump](https://github.com/nameless-and-blameless/TAG/wiki/The-Judgment-of-Satan)
 
+## Other StopTAG Pages
+
+* Alpha-Males
+  - https://github.com/BigGuyTAG
+  - https://github.com/RentedMen
+* Military
+  - https://github.com/MilitaryTAG
+    
 ## Listen
 * [Sign of the Times](https://music.youtube.com/watch?v=SO-rvSerJXc&si=qBCxXwqzAy0TfPIT) by Prince
    - The lead up to The American Genocide 
