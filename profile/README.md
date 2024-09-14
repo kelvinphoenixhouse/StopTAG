@@ -105,7 +105,6 @@ The intent to destroy the groups has been demonstrated through various acts, inc
      - Massacres
        - [Sandy Hook Massacre](https://github.com/nameless-and-blameless/TAG/wiki/Sandy-Hook-Massacre)
        - [TAG in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
-       
        - Continued Acts of Violence 
          - [Phantom Funerals](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral)
          - [Food Pantries](https://github.com/nameless-and-blameless/TAG/wiki/Food-Exploits)
@@ -113,7 +112,6 @@ The intent to destroy the groups has been demonstrated through various acts, inc
      - [Hypnos Infiltration Method conducted on millions of Americans daily](https://github.com/nameless-and-blameless/TAG/wiki/Hypnos-Infiltration-Tactic)
      - [The Treatment of Alpha Males During The American Genocide](https://github.com/nameless-and-blameless/TAG/wiki/Treatment-of-Alpha-Males-during-TAG)
 * **Deliberately inflicting conditions of life calculated to bring about its physical destruction** in whole or in part.
-
     - [The solutions for alpha males](https://github.com/nameless-and-blameless/TAG/wiki/Targeting-Alpha-Males)
   - [The Treatment of Alpha Males During The American Genocide](https://github.com/nameless-and-blameless/TAG/wiki/Treatment-of-Alpha-Males-during-TAG)
 * **Imposing measures intended to prevent births** within the group
