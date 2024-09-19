@@ -102,6 +102,11 @@ The intent to destroy the groups has been demonstrated through various acts, inc
        - [John Grootegoed and Gabrielle Galardo](https://github.com/nameless-and-blameless/TAG/wiki/John-and-Gabrille-Galardo-Grootegoed)
        - [Nanea Reeves](https://github.com/nameless-and-blameless/TAG/wiki/Nanea-Reeves)
        - [Phantom Funeral of Senator Marsha Blackburn](https://github.com/nameless-and-blameless/TAG/wiki/Phantom-Funeral-of-Senator-Marsha-Blackburn)
+       - Communities Most Impacted:
+         - Jessamine County, Kentucky (Nicholasville): Population 48,586 (2010 census), predominantly white with significant African American and Hispanic communities.
+         - Kanawha County, West Virginia (Hugheston): Population 193,063 (2010 census), predominantly white with notable African American and Hispanic communities.
+         - Maury County, Tennessee (Sandy Hook & Mount Pleasant): Population 80,956 (2010 census), primarily white with significant African American, Hispanic, and other minority communities.
+
      - Massacres
        - [Sandy Hook Massacre](https://github.com/nameless-and-blameless/TAG/wiki/Sandy-Hook-Massacre)
        - [TAG in Places of Worship](https://github.com/nameless-and-blameless/TAG/wiki/TAGPOW)
