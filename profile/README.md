@@ -24,6 +24,18 @@ This page is overseen by the Creator's two servants as part of the "Creator's Sp
 ## Learn
 Please explore the [TAG Wiki](https://github.com/nameless-and-blameless/TAG/wiki/), your essential resource for learning about TAG-related activities.
 
+## Media
+
+**MEDIA ADVISORY**
+
+The Creator has mandated that all media briefings will take place on Sundays, provided it is the first noon following any seismic activity. Each day at noon, after the seismic event, the Creator's servants will be present at the next epicenter to provide updates. The exact address of the next location will be announced during the briefing on the previous day.
+
+For the upcoming briefing, the location is as follows:
+
+**Address: 8397 West Sheepneck Road, Sandy Hook (Mount Pleasant), Tennessee.**
+
+Further details will be provided during the briefing. 
+
 > [!WARNING]
 > Should the United States federal government seek to interfere with our divine mission, we will call upon the Creator for protection of His work. Thank you for your understanding and respect.
 
